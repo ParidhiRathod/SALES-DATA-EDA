@@ -1,0 +1,1001 @@
+Sale_ID,Product_Name,Category,Quantity,Unit_Price,Discount(%),Salesperson,Region,Payment_Method,Date,Total_Amount,Discount_Amount,Final_Amount
+S1000,Smartphone,Office Supplies,7,47563,23,Grace,West,Cash,01-01-23,332941,76576.43,256364.57
+S1001,Laptop,Office Supplies,4,31178,16,Hannah,North,UPI,02-01-23,124712,19953.92,104758.08
+S1002,Keyboard,Wearables,8,11182,9,Hannah,East,UPI,03-01-23,89456,8051.04,81404.96
+S1003,Monitor,Accessories,5,49648,28,David,East,Debit Card,04-01-23,248240,69507.2,178732.8
+S1004,Monitor,Wearables,7,9019,9,Eve,South,UPI,05-01-23,63133,5681.97,57451.03
+S1005,Headphones,Wearables,3,31980,,Frank,North,Cash,06-01-23,95940,0,95940
+S1006,Smartphone,Office Supplies,7,20194,3,Eve,West,Cash,07-01-23,141358,4240.74,137117.26
+S1007,Smartwatch,Office Supplies,8,3800,19,Alice,West,Cash,08-01-23,30400,5776,24624
+S1008,Smartphone,Wearables,5,7222,3,Bob,South,UPI,09-01-23,36110,1083.3,35026.7
+S1009,Camera,Wearables,4,40486,21,David,North,UPI,10-01-23,161944,34008.24,127935.76
+S1010,Printer,Office Supplies,8,24660,6,Alice,West,Cash,11-01-23,197280,11836.8,185443.2
+S1011,Laptop,Accessories,8,20559,21,Charlie,North,Net Banking,12-01-23,164472,34539.12,129932.88
+S1012,Laptop,Accessories,3,36322,,Grace,South,Credit Card,13-01-23,108966,0,108966
+S1013,Smartphone,Wearables,6,14075,11,Charlie,North,Debit Card,14-01-23,84450,9289.5,75160.5
+S1014,Monitor,Accessories,5,8470,23,Alice,North,Net Banking,15-01-23,42350,9740.5,32609.5
+S1015,Monitor,Wearables,2,35411,,Grace,North,Credit Card,16-01-23,70822,0,70822
+S1016,Smartwatch,Electronics,8,22091,9,Hannah,South,UPI,17-01-23,176728,15905.52,160822.48
+S1017,Camera,Office Supplies,6,32321,14,Charlie,South,Debit Card,18-01-23,193926,27149.64,166776.36
+S1018,Laptop,Wearables,2,10003,26,Eve,South,Net Banking,19-01-23,20006,5201.56,14804.44
+S1019,Smartwatch,Wearables,5,48417,12,Alice,West,Debit Card,20-01-23,242085,29050.2,213034.8
+S1020,Monitor,Wearables,1,19422,22,Alice,East,UPI,21-01-23,19422,4272.84,15149.16
+S1021,Smartwatch,Accessories,6,12675,21,Eve,North,Credit Card,22-01-23,76050,15970.5,60079.5
+S1022,Printer,Wearables,9,41624,21,Bob,East,Credit Card,23-01-23,374616,78669.36,295946.64
+S1023,Monitor,Electronics,1,21889,,Frank,North,Credit Card,24-01-23,21889,0,21889
+S1024,Tablet,Accessories,3,48338,21,Eve,North,Net Banking,25-01-23,145014,30452.94,114561.06
+S1025,Camera,Office Supplies,7,1322,27,Hannah,North,Credit Card,26-01-23,9254,2498.58,6755.42
+S1026,Keyboard,Electronics,4,17827,8,Hannah,South,Net Banking,27-01-23,71308,5704.64,65603.36
+S1027,Laptop,Wearables,9,47557,25,Charlie,West,Net Banking,28-01-23,428013,107003.25,321009.75
+S1028,Headphones,Electronics,3,6650,8,Hannah,South,Cash,29-01-23,19950,1596,18354
+S1029,Printer,Wearables,5,4925,14,Eve,North,Net Banking,30-01-23,24625,3447.5,21177.5
+S1030,Mouse,Electronics,3,16532,9,David,East,Debit Card,31-01-23,49596,4463.64,45132.36
+S1031,Keyboard,Accessories,7,2698,23,Bob,North,Credit Card,01-02-23,18886,4343.78,14542.22
+S1032,Headphones,Wearables,5,20579,25,Frank,North,Net Banking,02-02-23,102895,25723.75,77171.25
+S1033,Monitor,Accessories,9,36720,24,Charlie,West,UPI,03-02-23,330480,79315.2,251164.8
+S1034,Mouse,Electronics,7,42374,28,Hannah,North,Net Banking,04-02-23,296618,83053.04,213564.96
+S1035,Smartphone,Wearables,2,14359,9,Eve,South,Net Banking,05-02-23,28718,2584.62,26133.38
+S1036,Smartphone,Office Supplies,4,31919,7,Charlie,West,Cash,06-02-23,127676,8937.32,118738.68
+S1037,Printer,Office Supplies,9,9205,23,Alice,West,Debit Card,07-02-23,82845,19054.35,63790.65
+S1038,Smartphone,Wearables,2,43380,15,Frank,West,UPI,08-02-23,86760,13014,73746
+S1039,Mouse,Electronics,9,23736,16,Eve,North,Cash,09-02-23,213624,34179.84,179444.16
+S1040,Mouse,Office Supplies,5,22919,25,David,West,Debit Card,10-02-23,114595,28648.75,85946.25
+S1041,Camera,Wearables,2,20478,26,Charlie,West,Net Banking,11-02-23,40956,10648.56,30307.44
+S1042,Keyboard,Office Supplies,4,38109,4,Grace,South,UPI,12-02-23,152436,6097.44,146338.56
+S1043,Laptop,Wearables,7,15858,3,Grace,East,Debit Card,13-02-23,111006,3330.18,107675.82
+S1044,Tablet,Electronics,8,34677,17,Frank,South,Cash,14-02-23,277416,47160.72,230255.28
+S1045,Smartwatch,Electronics,3,29878,23,Bob,South,Net Banking,15-02-23,89634,20615.82,69018.18
+S1046,Smartphone,Accessories,1,37834,18,Grace,East,Net Banking,16-02-23,37834,6810.12,31023.88
+S1047,Printer,Office Supplies,4,11882,3,Bob,East,Credit Card,17-02-23,47528,1425.84,46102.16
+S1048,Smartphone,Accessories,2,15096,27,Charlie,West,Cash,18-02-23,30192,8151.84,22040.16
+S1049,Smartwatch,Electronics,8,34072,6,Charlie,South,UPI,19-02-23,272576,16354.56,256221.44
+S1050,Keyboard,Wearables,4,13721,9,Hannah,North,Net Banking,20-02-23,54884,4939.56,49944.44
+S1051,Camera,Electronics,2,1779,24,Frank,South,Credit Card,21-02-23,3558,853.92,2704.08
+S1052,Mouse,Electronics,6,46460,17,David,East,Debit Card,22-02-23,278760,47389.2,231370.8
+S1053,Camera,Wearables,6,7583,18,Alice,West,Net Banking,23-02-23,45498,8189.64,37308.36
+S1054,Monitor,Accessories,4,44361,3,Eve,West,Debit Card,24-02-23,177444,5323.32,172120.68
+S1055,Smartphone,Office Supplies,6,18271,9,Grace,West,Net Banking,25-02-23,109626,9866.34,99759.66
+S1056,Laptop,Electronics,2,30475,0,David,North,Debit Card,26-02-23,60950,0,60950
+S1057,Monitor,Electronics,2,46148,22,Hannah,North,Cash,27-02-23,92296,20305.12,71990.88
+S1058,Keyboard,Office Supplies,4,48785,17,Eve,East,Debit Card,28-02-23,195140,33173.8,161966.2
+S1059,Smartphone,Electronics,8,19563,4,Frank,West,Debit Card,01-03-23,156504,6260.16,150243.84
+S1060,Monitor,Office Supplies,7,2606,14,Eve,South,Net Banking,02-03-23,18242,2553.88,15688.12
+S1061,Smartphone,Office Supplies,9,25057,16,Alice,West,Net Banking,03-03-23,225513,36082.08,189430.92
+S1062,Printer,Office Supplies,8,49354,2,Eve,South,Debit Card,04-03-23,394832,7896.64,386935.36
+S1063,Keyboard,Wearables,5,21107,11,Frank,South,Cash,05-03-23,105535,11608.85,93926.15
+S1064,Tablet,Accessories,2,38099,1,David,North,UPI,06-03-23,76198,761.98,75436.02
+S1065,Mouse,Accessories,5,29029,0,Alice,West,Credit Card,07-03-23,145145,0,145145
+S1066,Headphones,Wearables,8,36454,22,Bob,East,Debit Card,08-03-23,291632,64159.04,227472.96
+S1067,Mouse,Accessories,9,28356,20,Hannah,West,Cash,09-03-23,255204,51040.8,204163.2
+S1068,Mouse,Accessories,9,3073,16,Eve,West,Debit Card,10-03-23,27657,4425.12,23231.88
+S1069,Monitor,Accessories,1,13308,21,Charlie,East,Credit Card,11-03-23,13308,2794.68,10513.32
+S1070,Keyboard,Electronics,9,35867,15,Grace,East,UPI,12-03-23,322803,48420.45,274382.55
+S1071,Smartphone,Wearables,7,37301,4,Eve,West,UPI,13-03-23,261107,10444.28,250662.72
+S1072,Camera,Accessories,9,41696,14,Bob,East,Debit Card,14-03-23,375264,52536.96,322727.04
+S1073,Headphones,Wearables,8,34572,2,Eve,South,Credit Card,15-03-23,276576,5531.52,271044.48
+S1074,Smartwatch,Accessories,1,24252,27,Frank,North,Debit Card,16-03-23,24252,6548.04,17703.96
+S1075,Monitor,Accessories,8,18185,6,David,East,Net Banking,17-03-23,145480,8728.8,136751.2
+S1076,Headphones,Wearables,8,41901,10,David,South,UPI,18-03-23,335208,33520.8,301687.2
+S1077,Tablet,Office Supplies,3,11872,9,Charlie,North,Cash,19-03-23,35616,3205.44,32410.56
+S1078,Printer,Wearables,1,9496,8,Hannah,East,Cash,20-03-23,9496,759.68,8736.32
+S1079,Keyboard,Office Supplies,8,16958,13,Charlie,North,Cash,21-03-23,135664,17636.32,118027.68
+S1080,Smartwatch,Electronics,3,32389,12,Hannah,West,Credit Card,22-03-23,97167,11660.04,85506.96
+S1081,Monitor,Wearables,3,27165,28,Frank,East,Credit Card,23-03-23,81495,22818.6,58676.4
+S1082,Mouse,Office Supplies,1,38743,24,Grace,South,UPI,24-03-23,38743,9298.32,29444.68
+S1083,Laptop,Accessories,5,32153,29,Hannah,South,Credit Card,25-03-23,160765,46621.85,114143.15
+S1084,Monitor,Electronics,7,27157,24,David,North,Net Banking,26-03-23,190099,45623.76,144475.24
+S1085,Laptop,Wearables,9,40452,1,David,South,UPI,27-03-23,364068,3640.68,360427.32
+S1086,Mouse,Office Supplies,7,22680,2,Bob,South,UPI,28-03-23,158760,3175.2,155584.8
+S1087,Printer,Office Supplies,9,32396,6,Hannah,East,Net Banking,29-03-23,291564,17493.84,274070.16
+S1088,Keyboard,Wearables,8,13375,20,Frank,North,Net Banking,30-03-23,107000,21400,85600
+S1089,Smartphone,Office Supplies,2,2122,17,Bob,South,Net Banking,31-03-23,4244,721.48,3522.52
+S1090,Monitor,Wearables,1,49256,2,Bob,West,Debit Card,01-04-23,49256,985.12,48270.88
+S1091,Camera,Office Supplies,7,41309,9,Alice,East,Cash,02-04-23,289163,26024.67,263138.33
+S1092,Mouse,Accessories,7,17225,21,David,South,Cash,03-04-23,120575,25320.75,95254.25
+S1093,Monitor,Wearables,8,41260,28,Charlie,South,UPI,04-04-23,330080,92422.4,237657.6
+S1094,Tablet,Wearables,5,16146,6,Charlie,South,Net Banking,05-04-23,80730,4843.8,75886.2
+S1095,Printer,Electronics,3,17529,8,Frank,East,Credit Card,06-04-23,52587,4206.96,48380.04
+S1096,Tablet,Accessories,8,29902,16,Hannah,East,Net Banking,07-04-23,239216,38274.56,200941.44
+S1097,Headphones,Wearables,6,4763,10,Bob,North,UPI,08-04-23,28578,2857.8,25720.2
+S1098,Keyboard,Office Supplies,3,31487,6,David,East,Cash,09-04-23,94461,5667.66,88793.34
+S1099,Headphones,Office Supplies,1,47328,23,Hannah,South,Debit Card,10-04-23,47328,10885.44,36442.56
+S1100,Monitor,Office Supplies,3,48424,27,Bob,South,Net Banking,11-04-23,145272,39223.44,106048.56
+S1101,Smartwatch,Electronics,5,9146,13,Hannah,West,Cash,12-04-23,45730,5944.9,39785.1
+S1102,Smartwatch,Wearables,3,28029,18,Alice,East,UPI,13-04-23,84087,15135.66,68951.34
+S1103,Keyboard,Office Supplies,1,12164,3,Hannah,South,UPI,14-04-23,12164,364.92,11799.08
+S1104,Camera,Electronics,5,36237,25,Charlie,West,Cash,15-04-23,181185,45296.25,135888.75
+S1105,Printer,Electronics,7,36296,5,Grace,North,Cash,16-04-23,254072,12703.6,241368.4
+S1106,Camera,Wearables,7,24527,9,Hannah,North,Net Banking,17-04-23,171689,15452.01,156236.99
+S1107,Printer,Office Supplies,9,29873,6,Alice,North,Credit Card,18-04-23,268857,16131.42,252725.58
+S1108,Mouse,Accessories,3,36897,12,Hannah,South,Net Banking,19-04-23,110691,13282.92,97408.08
+S1109,Monitor,Office Supplies,7,21109,13,Eve,South,Debit Card,20-04-23,147763,19209.19,128553.81
+S1110,Headphones,Accessories,1,36335,3,Alice,North,Cash,21-04-23,36335,1090.05,35244.95
+S1111,Smartwatch,Accessories,4,39209,7,Grace,West,Debit Card,22-04-23,156836,10978.52,145857.48
+S1112,Tablet,Office Supplies,4,19750,4,Eve,North,Debit Card,23-04-23,79000,3160,75840
+S1113,Smartphone,Accessories,5,21672,0,Alice,East,Credit Card,24-04-23,108360,0,108360
+S1114,Laptop,Electronics,7,12055,3,David,South,Net Banking,25-04-23,84385,2531.55,81853.45
+S1115,Smartphone,Electronics,7,22374,2,Bob,South,UPI,26-04-23,156618,3132.36,153485.64
+S1116,Headphones,Office Supplies,4,13581,8,Alice,East,Debit Card,27-04-23,54324,4345.92,49978.08
+S1117,Headphones,Wearables,7,24563,7,Grace,South,Debit Card,28-04-23,171941,12035.87,159905.13
+S1118,Printer,Electronics,3,7319,0,Frank,East,Debit Card,29-04-23,21957,0,21957
+S1119,Camera,Office Supplies,6,26212,26,Bob,North,Debit Card,30-04-23,157272,40890.72,116381.28
+S1120,Smartphone,Accessories,2,25262,5,Alice,North,UPI,01-05-23,50524,2526.2,47997.8
+S1121,Printer,Electronics,9,11546,8,Bob,South,Net Banking,02-05-23,103914,8313.12,95600.88
+S1122,Printer,Office Supplies,5,31963,6,Hannah,South,Credit Card,03-05-23,159815,9588.9,150226.1
+S1123,Camera,Office Supplies,6,29269,3,Alice,North,Debit Card,04-05-23,175614,5268.42,170345.58
+S1124,Tablet,Wearables,4,23650,12,Eve,East,Cash,05-05-23,94600,11352,83248
+S1125,Smartwatch,Accessories,7,3211,16,Grace,North,UPI,06-05-23,22477,3596.32,18880.68
+S1126,Keyboard,Accessories,9,5353,27,Charlie,East,Credit Card,07-05-23,48177,13007.79,35169.21
+S1127,Smartwatch,Accessories,7,29577,1,Charlie,West,Cash,08-05-23,207039,2070.39,204968.61
+S1128,Laptop,Office Supplies,1,24363,27,Grace,North,Cash,09-05-23,24363,6578.01,17784.99
+S1129,Smartphone,Office Supplies,1,22292,4,Frank,East,Cash,10-05-23,22292,891.68,21400.32
+S1130,Smartwatch,Accessories,9,40983,11,Grace,East,Debit Card,11-05-23,368847,40573.17,328273.83
+S1131,Keyboard,Office Supplies,9,9442,26,Hannah,East,Net Banking,12-05-23,84978,22094.28,62883.72
+S1132,Mouse,Wearables,4,48775,20,Grace,South,Debit Card,13-05-23,195100,39020,156080
+S1133,Smartphone,Office Supplies,9,49094,7,Grace,South,Cash,14-05-23,441846,30929.22,410916.78
+S1134,Keyboard,Office Supplies,3,2262,5,Bob,West,Credit Card,15-05-23,6786,339.3,6446.7
+S1135,Printer,Electronics,7,32487,7,Charlie,West,Debit Card,16-05-23,227409,15918.63,211490.37
+S1136,Headphones,Wearables,6,16350,17,Frank,East,Credit Card,17-05-23,98100,16677,81423
+S1137,Tablet,Electronics,8,12612,2,Bob,South,Debit Card,18-05-23,100896,2017.92,98878.08
+S1138,Laptop,Accessories,9,24558,21,Charlie,East,Net Banking,19-05-23,221022,46414.62,174607.38
+S1139,Keyboard,Accessories,5,45920,11,Grace,South,Net Banking,20-05-23,229600,25256,204344
+S1140,Smartwatch,Wearables,1,39390,28,Charlie,South,Debit Card,21-05-23,39390,11029.2,28360.8
+S1141,Headphones,Office Supplies,3,981,25,David,West,Debit Card,22-05-23,2943,735.75,2207.25
+S1142,Smartwatch,Electronics,8,47804,2,Alice,East,Net Banking,23-05-23,382432,7648.64,374783.36
+S1143,Smartphone,Wearables,6,33421,21,Alice,East,Credit Card,24-05-23,200526,42110.46,158415.54
+S1144,Keyboard,Electronics,8,40885,5,Eve,South,Net Banking,25-05-23,327080,16354,310726
+S1145,Smartwatch,Office Supplies,9,2024,1,Hannah,South,Debit Card,26-05-23,18216,182.16,18033.84
+S1146,Camera,Electronics,4,35388,22,Grace,North,Credit Card,27-05-23,141552,31141.44,110410.56
+S1147,Monitor,Wearables,1,15548,11,Grace,West,Debit Card,28-05-23,15548,1710.28,13837.72
+S1148,Headphones,Office Supplies,1,35611,1,David,North,UPI,29-05-23,35611,356.11,35254.89
+S1149,Mouse,Office Supplies,4,38404,5,David,South,Debit Card,30-05-23,153616,7680.8,145935.2
+S1150,Headphones,Wearables,7,34508,16,Hannah,East,Net Banking,31-05-23,241556,38648.96,202907.04
+S1151,Smartwatch,Office Supplies,2,560,2,Frank,South,Cash,01-06-23,1120,22.4,1097.6
+S1152,Smartwatch,Electronics,3,9630,1,Charlie,North,Net Banking,02-06-23,28890,288.9,28601.1
+S1153,Laptop,Accessories,1,18523,22,Eve,West,Net Banking,03-06-23,18523,4075.06,14447.94
+S1154,Camera,Wearables,5,45580,29,David,South,Credit Card,04-06-23,227900,66091,161809
+S1155,Mouse,Electronics,1,13850,19,Bob,East,UPI,05-06-23,13850,2631.5,11218.5
+S1156,Tablet,Office Supplies,8,24854,7,Alice,North,Credit Card,06-06-23,198832,13918.24,184913.76
+S1157,Laptop,Accessories,1,45686,21,Grace,South,Debit Card,07-06-23,45686,9594.06,36091.94
+S1158,Smartphone,Electronics,1,28645,11,Alice,East,Cash,08-06-23,28645,3150.95,25494.05
+S1159,Mouse,Wearables,2,34520,25,David,East,Net Banking,09-06-23,69040,17260,51780
+S1160,Keyboard,Office Supplies,2,21087,3,David,South,Cash,10-06-23,42174,1265.22,40908.78
+S1161,Monitor,Wearables,6,41631,4,Bob,North,Cash,11-06-23,249786,9991.44,239794.56
+S1162,Laptop,Electronics,7,10150,12,Bob,East,Debit Card,12-06-23,71050,8526,62524
+S1163,Monitor,Accessories,5,20433,28,Alice,West,Debit Card,13-06-23,102165,28606.2,73558.8
+S1164,Camera,Electronics,1,21081,14,Hannah,North,Cash,14-06-23,21081,2951.34,18129.66
+S1165,Smartphone,Electronics,1,23893,24,Alice,East,Net Banking,15-06-23,23893,5734.32,18158.68
+S1166,Smartphone,Office Supplies,3,23551,22,David,South,Debit Card,16-06-23,70653,15543.66,55109.34
+S1167,Tablet,Wearables,2,26712,15,Alice,South,Net Banking,17-06-23,53424,8013.6,45410.4
+S1168,Smartphone,Electronics,5,49582,9,Grace,North,Debit Card,18-06-23,247910,22311.9,225598.1
+S1169,Smartwatch,Electronics,6,4590,29,Hannah,East,Net Banking,19-06-23,27540,7986.6,19553.4
+S1170,Headphones,Accessories,7,7460,29,David,East,Net Banking,20-06-23,52220,15143.8,37076.2
+S1171,Headphones,Accessories,4,36272,24,David,North,UPI,21-06-23,145088,34821.12,110266.88
+S1172,Tablet,Wearables,7,22020,22,Alice,North,Debit Card,22-06-23,154140,33910.8,120229.2
+S1173,Smartwatch,Wearables,8,49981,15,Charlie,North,UPI,23-06-23,399848,59977.2,339870.8
+S1174,Headphones,Office Supplies,1,36908,11,Eve,West,Cash,24-06-23,36908,4059.88,32848.12
+S1175,Keyboard,Wearables,6,28970,16,David,West,Net Banking,25-06-23,173820,27811.2,146008.8
+S1176,Smartwatch,Accessories,8,20991,15,Frank,West,Net Banking,26-06-23,167928,25189.2,142738.8
+S1177,Camera,Wearables,5,1841,11,Frank,South,Credit Card,27-06-23,9205,1012.55,8192.45
+S1178,Printer,Electronics,4,45123,7,David,West,Debit Card,28-06-23,180492,12634.44,167857.56
+S1179,Monitor,Wearables,2,25291,19,Eve,West,Cash,29-06-23,50582,9610.58,40971.42
+S1180,Smartwatch,Wearables,6,838,2,Charlie,West,Cash,30-06-23,5028,100.56,4927.44
+S1181,Monitor,Office Supplies,6,6395,15,David,East,Debit Card,01-07-23,38370,5755.5,32614.5
+S1182,Keyboard,Electronics,1,12754,29,Grace,West,Credit Card,02-07-23,12754,3698.66,9055.34
+S1183,Printer,Office Supplies,9,11844,12,Eve,North,Credit Card,03-07-23,106596,12791.52,93804.48
+S1184,Mouse,Accessories,6,2250,22,Eve,West,Debit Card,04-07-23,13500,2970,10530
+S1185,Tablet,Wearables,3,2921,27,Alice,South,Net Banking,05-07-23,8763,2366.01,6396.99
+S1186,Smartwatch,Wearables,4,40387,18,Charlie,South,Net Banking,06-07-23,161548,29078.64,132469.36
+S1187,Tablet,Accessories,4,5819,7,Grace,West,Cash,07-07-23,23276,1629.32,21646.68
+S1188,Smartphone,Office Supplies,3,16396,21,Hannah,North,Debit Card,08-07-23,49188,10329.48,38858.52
+S1189,Monitor,Electronics,3,12418,4,Alice,North,Net Banking,09-07-23,37254,1490.16,35763.84
+S1190,Monitor,Office Supplies,3,25564,19,Frank,East,Credit Card,10-07-23,76692,14571.48,62120.52
+S1191,Smartphone,Office Supplies,4,47117,7,Grace,North,Debit Card,11-07-23,188468,13192.76,175275.24
+S1192,Mouse,Electronics,7,28435,23,Frank,East,Cash,12-07-23,199045,45780.35,153264.65
+S1193,Laptop,Wearables,4,38141,11,Grace,East,Net Banking,13-07-23,152564,16782.04,135781.96
+S1194,Camera,Office Supplies,9,30211,0,Grace,North,Net Banking,14-07-23,271899,0,271899
+S1195,Smartwatch,Accessories,1,5306,24,Charlie,North,Credit Card,15-07-23,5306,1273.44,4032.56
+S1196,Monitor,Electronics,8,41860,29,Eve,East,Net Banking,16-07-23,334880,97115.2,237764.8
+S1197,Camera,Wearables,7,12682,20,Grace,South,Net Banking,17-07-23,88774,17754.8,71019.2
+S1198,Monitor,Electronics,2,22797,19,Charlie,West,Credit Card,18-07-23,45594,8662.86,36931.14
+S1199,Laptop,Accessories,8,20041,5,Hannah,South,Credit Card,19-07-23,160328,8016.4,152311.6
+S1200,Smartphone,Electronics,1,29421,21,David,North,Cash,20-07-23,29421,6178.41,23242.59
+S1201,Laptop,Electronics,9,17274,17,David,North,Debit Card,21-07-23,155466,26429.22,129036.78
+S1202,Monitor,Office Supplies,9,45313,7,Eve,East,Net Banking,22-07-23,407817,28547.19,379269.81
+S1203,Smartphone,Accessories,2,37698,6,Charlie,West,Net Banking,23-07-23,75396,4523.76,70872.24
+S1204,Laptop,Accessories,7,9320,0,Hannah,North,Credit Card,24-07-23,65240,0,65240
+S1205,Mouse,Accessories,3,24570,20,Alice,West,Cash,25-07-23,73710,14742,58968
+S1206,Smartphone,Electronics,7,4732,15,Grace,South,Net Banking,26-07-23,33124,4968.6,28155.4
+S1207,Smartwatch,Accessories,9,11622,11,Grace,West,Cash,27-07-23,104598,11505.78,93092.22
+S1208,Monitor,Accessories,4,15523,5,Charlie,South,UPI,28-07-23,62092,3104.6,58987.4
+S1209,Keyboard,Accessories,1,8507,19,Grace,North,Credit Card,29-07-23,8507,1616.33,6890.67
+S1210,Tablet,Office Supplies,2,18405,1,David,North,Net Banking,30-07-23,36810,368.1,36441.9
+S1211,Monitor,Accessories,1,42286,28,Eve,East,Cash,31-07-23,42286,11840.08,30445.92
+S1212,Smartwatch,Electronics,5,29898,13,David,South,Debit Card,01-08-23,149490,19433.7,130056.3
+S1213,Headphones,Office Supplies,5,34768,3,Frank,South,Cash,02-08-23,173840,5215.2,168624.8
+S1214,Camera,Accessories,7,7237,0,Bob,West,Cash,03-08-23,50659,0,50659
+S1215,Camera,Accessories,9,36562,22,Hannah,East,UPI,04-08-23,329058,72392.76,256665.24
+S1216,Tablet,Office Supplies,9,26010,17,Frank,East,Net Banking,05-08-23,234090,39795.3,194294.7
+S1217,Monitor,Accessories,3,19926,12,Bob,East,Net Banking,06-08-23,59778,7173.36,52604.64
+S1218,Tablet,Electronics,3,37765,1,David,South,Credit Card,07-08-23,113295,1132.95,112162.05
+S1219,Printer,Electronics,3,18350,8,Alice,North,Cash,08-08-23,55050,4404,50646
+S1220,Monitor,Accessories,4,1114,20,Eve,North,Debit Card,09-08-23,4456,891.2,3564.8
+S1221,Smartphone,Electronics,8,22276,1,Grace,West,UPI,10-08-23,178208,1782.08,176425.92
+S1222,Smartphone,Office Supplies,6,24577,26,Alice,West,Cash,11-08-23,147462,38340.12,109121.88
+S1223,Printer,Accessories,8,9874,24,Bob,South,Debit Card,12-08-23,78992,18958.08,60033.92
+S1224,Mouse,Office Supplies,1,35935,8,David,North,Credit Card,13-08-23,35935,2874.8,33060.2
+S1225,Printer,Electronics,8,31407,0,David,East,UPI,14-08-23,251256,0,251256
+S1226,Printer,Accessories,4,13909,10,Hannah,North,Net Banking,15-08-23,55636,5563.6,50072.4
+S1227,Tablet,Office Supplies,1,17014,2,David,West,Net Banking,16-08-23,17014,340.28,16673.72
+S1228,Laptop,Electronics,8,30366,19,Frank,North,Cash,17-08-23,242928,46156.32,196771.68
+S1229,Smartphone,Accessories,4,3483,29,Eve,East,UPI,18-08-23,13932,4040.28,9891.72
+S1230,Laptop,Wearables,6,32205,22,Alice,West,Debit Card,19-08-23,193230,42510.6,150719.4
+S1231,Printer,Electronics,8,21162,25,David,South,Credit Card,20-08-23,169296,42324,126972
+S1232,Mouse,Electronics,4,24010,3,David,North,Credit Card,21-08-23,96040,2881.2,93158.8
+S1233,Smartphone,Wearables,3,13151,17,Bob,North,Net Banking,22-08-23,39453,6707.01,32745.99
+S1234,Monitor,Wearables,9,41498,22,Hannah,South,Net Banking,23-08-23,373482,82166.04,291315.96
+S1235,Monitor,Office Supplies,3,29035,5,David,South,Credit Card,24-08-23,87105,4355.25,82749.75
+S1236,Monitor,Electronics,9,7140,2,David,East,Net Banking,25-08-23,64260,1285.2,62974.8
+S1237,Smartwatch,Wearables,2,45047,21,Grace,North,Credit Card,26-08-23,90094,18919.74,71174.26
+S1238,Tablet,Accessories,2,15817,10,David,West,Cash,27-08-23,31634,3163.4,28470.6
+S1239,Headphones,Electronics,2,8064,14,Frank,North,Debit Card,28-08-23,16128,2257.92,13870.08
+S1240,Printer,Office Supplies,6,27845,21,Eve,East,UPI,29-08-23,167070,35084.7,131985.3
+S1241,Headphones,Wearables,3,48788,27,Grace,West,Cash,30-08-23,146364,39518.28,106845.72
+S1242,Keyboard,Electronics,9,29187,4,Hannah,West,UPI,31-08-23,262683,10507.32,252175.68
+S1243,Tablet,Electronics,4,14237,19,Frank,West,Credit Card,01-09-23,56948,10820.12,46127.88
+S1244,Monitor,Wearables,1,9823,9,Eve,East,Debit Card,02-09-23,9823,884.07,8938.93
+S1245,Smartphone,Wearables,4,15729,11,Eve,North,Cash,03-09-23,62916,6920.76,55995.24
+S1246,Tablet,Wearables,1,44981,14,Frank,West,Net Banking,04-09-23,44981,6297.34,38683.66
+S1247,Smartwatch,Electronics,5,9002,16,Hannah,South,UPI,05-09-23,45010,7201.6,37808.4
+S1248,Smartphone,Wearables,4,1045,9,Hannah,East,UPI,06-09-23,4180,376.2,3803.8
+S1249,Laptop,Wearables,8,37614,5,Bob,West,Net Banking,07-09-23,300912,15045.6,285866.4
+S1250,Smartwatch,Electronics,8,29930,17,Hannah,East,Cash,08-09-23,239440,40704.8,198735.2
+S1251,Laptop,Electronics,7,10496,12,Frank,South,Net Banking,09-09-23,73472,8816.64,64655.36
+S1252,Smartphone,Office Supplies,3,28288,2,David,West,UPI,10-09-23,84864,1697.28,83166.72
+S1253,Monitor,Accessories,1,30469,29,Frank,North,Net Banking,11-09-23,30469,8836.01,21632.99
+S1254,Headphones,Electronics,1,49043,23,Frank,East,UPI,12-09-23,49043,11279.89,37763.11
+S1255,Printer,Accessories,3,14419,9,Grace,West,Cash,13-09-23,43257,3893.13,39363.87
+S1256,Tablet,Office Supplies,6,4310,29,Alice,West,Debit Card,14-09-23,25860,7499.4,18360.6
+S1257,Tablet,Office Supplies,7,31086,13,David,East,Cash,15-09-23,217602,28288.26,189313.74
+S1258,Monitor,Wearables,6,40474,5,Charlie,South,Net Banking,16-09-23,242844,12142.2,230701.8
+S1259,Printer,Office Supplies,6,42273,2,Alice,East,Net Banking,17-09-23,253638,5072.76,248565.24
+S1260,Laptop,Wearables,6,16871,15,Eve,North,Cash,18-09-23,101226,15183.9,86042.1
+S1261,Headphones,Wearables,3,45584,6,Grace,South,Debit Card,19-09-23,136752,8205.12,128546.88
+S1262,Printer,Electronics,6,30129,19,Eve,North,UPI,20-09-23,180774,34347.06,146426.94
+S1263,Laptop,Electronics,8,8936,13,Charlie,North,Net Banking,21-09-23,71488,9293.44,62194.56
+S1264,Printer,Accessories,2,13484,8,David,East,Net Banking,22-09-23,26968,2157.44,24810.56
+S1265,Keyboard,Wearables,5,33539,14,Frank,West,Cash,23-09-23,167695,23477.3,144217.7
+S1266,Tablet,Wearables,1,20395,20,David,South,UPI,24-09-23,20395,4079,16316
+S1267,Keyboard,Accessories,1,18655,2,Grace,North,UPI,25-09-23,18655,373.1,18281.9
+S1268,Printer,Wearables,5,11116,1,David,West,Net Banking,26-09-23,55580,555.8,55024.2
+S1269,Smartwatch,Office Supplies,3,37629,26,Hannah,West,UPI,27-09-23,112887,29350.62,83536.38
+S1270,Tablet,Wearables,4,40337,1,Frank,West,Cash,28-09-23,161348,1613.48,159734.52
+S1271,Headphones,Wearables,3,25074,2,Eve,South,Debit Card,29-09-23,75222,1504.44,73717.56
+S1272,Monitor,Wearables,1,3930,17,Hannah,West,Credit Card,30-09-23,3930,668.1,3261.9
+S1273,Keyboard,Electronics,1,13176,13,Hannah,East,Debit Card,01-10-23,13176,1712.88,11463.12
+S1274,Monitor,Office Supplies,5,11316,19,Hannah,North,Cash,02-10-23,56580,10750.2,45829.8
+S1275,Laptop,Wearables,6,33233,17,Charlie,West,Debit Card,03-10-23,199398,33897.66,165500.34
+S1276,Camera,Office Supplies,3,20644,9,Frank,North,Credit Card,04-10-23,61932,5573.88,56358.12
+S1277,Smartwatch,Office Supplies,9,2550,24,Charlie,South,Debit Card,05-10-23,22950,5508,17442
+S1278,Laptop,Office Supplies,5,44960,1,Charlie,North,Net Banking,06-10-23,224800,2248,222552
+S1279,Mouse,Accessories,8,34433,24,Hannah,West,Cash,07-10-23,275464,66111.36,209352.64
+S1280,Laptop,Wearables,1,25451,28,Charlie,South,UPI,08-10-23,25451,7126.28,18324.72
+S1281,Laptop,Electronics,5,32913,21,Alice,South,Net Banking,09-10-23,164565,34558.65,130006.35
+S1282,Camera,Electronics,3,35301,0,Alice,South,Net Banking,10-10-23,105903,0,105903
+S1283,Tablet,Electronics,1,33413,3,Bob,South,Credit Card,11-10-23,33413,1002.39,32410.61
+S1284,Smartwatch,Electronics,4,47537,13,Alice,South,Debit Card,12-10-23,190148,24719.24,165428.76
+S1285,Smartwatch,Wearables,5,41100,0,Alice,North,Cash,13-10-23,205500,0,205500
+S1286,Headphones,Electronics,7,25780,13,Grace,West,Credit Card,14-10-23,180460,23459.8,157000.2
+S1287,Laptop,Office Supplies,1,25057,15,Charlie,North,Credit Card,15-10-23,25057,3758.55,21298.45
+S1288,Smartwatch,Accessories,3,47554,21,David,West,Debit Card,16-10-23,142662,29959.02,112702.98
+S1289,Smartphone,Electronics,2,35900,13,Bob,South,Cash,17-10-23,71800,9334,62466
+S1290,Headphones,Office Supplies,9,4994,28,Charlie,South,Net Banking,18-10-23,44946,12584.88,32361.12
+S1291,Smartphone,Electronics,6,15652,19,Alice,East,Cash,19-10-23,93912,17843.28,76068.72
+S1292,Camera,Wearables,3,24395,2,David,East,Credit Card,20-10-23,73185,1463.7,71721.3
+S1293,Smartphone,Office Supplies,8,9655,2,Hannah,North,Credit Card,21-10-23,77240,1544.8,75695.2
+S1294,Monitor,Wearables,8,32383,8,Frank,North,UPI,22-10-23,259064,20725.12,238338.88
+S1295,Printer,Electronics,2,43694,5,Alice,West,Debit Card,23-10-23,87388,4369.4,83018.6
+S1296,Smartphone,Office Supplies,6,43501,24,Hannah,West,UPI,24-10-23,261006,62641.44,198364.56
+S1297,Camera,Office Supplies,7,2328,12,Hannah,East,Credit Card,25-10-23,16296,1955.52,14340.48
+S1298,Monitor,Office Supplies,2,45528,20,Alice,East,Net Banking,26-10-23,91056,18211.2,72844.8
+S1299,Camera,Electronics,2,42398,1,Alice,West,Credit Card,27-10-23,84796,847.96,83948.04
+S1300,Camera,Accessories,1,32623,7,Grace,North,Cash,28-10-23,32623,2283.61,30339.39
+S1301,Laptop,Accessories,8,38073,20,Alice,West,Cash,29-10-23,304584,60916.8,243667.2
+S1302,Camera,Wearables,1,1306,1,Alice,North,Net Banking,30-10-23,1306,13.06,1292.94
+S1303,Smartphone,Accessories,9,41470,3,Eve,West,Net Banking,31-10-23,373230,11196.9,362033.1
+S1304,Printer,Electronics,6,30257,24,Eve,South,UPI,01-11-23,181542,43570.08,137971.92
+S1305,Camera,Office Supplies,7,35136,14,Alice,South,Net Banking,02-11-23,245952,34433.28,211518.72
+S1306,Camera,Office Supplies,7,15061,3,Grace,North,Credit Card,03-11-23,105427,3162.81,102264.19
+S1307,Smartwatch,Electronics,3,48780,12,Charlie,North,Debit Card,04-11-23,146340,17560.8,128779.2
+S1308,Mouse,Office Supplies,2,24762,27,Bob,North,Cash,05-11-23,49524,13371.48,36152.52
+S1309,Keyboard,Accessories,9,15399,11,Bob,East,Cash,06-11-23,138591,15245.01,123345.99
+S1310,Monitor,Wearables,8,49488,27,Charlie,East,Credit Card,07-11-23,395904,106894.08,289009.92
+S1311,Mouse,Electronics,7,16434,12,David,West,Debit Card,08-11-23,115038,13804.56,101233.44
+S1312,Monitor,Office Supplies,9,38697,13,David,East,Net Banking,09-11-23,348273,45275.49,302997.51
+S1313,Keyboard,Electronics,4,42344,19,Eve,West,UPI,10-11-23,169376,32181.44,137194.56
+S1314,Printer,Accessories,4,36832,17,Frank,West,Debit Card,11-11-23,147328,25045.76,122282.24
+S1315,Headphones,Office Supplies,1,34657,28,Eve,West,Credit Card,12-11-23,34657,9703.96,24953.04
+S1316,Keyboard,Office Supplies,8,12093,27,Grace,North,Net Banking,13-11-23,96744,26120.88,70623.12
+S1317,Tablet,Office Supplies,3,40542,5,Bob,South,Net Banking,14-11-23,121626,6081.3,115544.7
+S1318,Mouse,Office Supplies,7,17820,28,Frank,East,Net Banking,15-11-23,124740,34927.2,89812.8
+S1319,Smartphone,Electronics,2,27876,10,Grace,West,Debit Card,16-11-23,55752,5575.2,50176.8
+S1320,Laptop,Accessories,2,44013,29,Hannah,South,Net Banking,17-11-23,88026,25527.54,62498.46
+S1321,Tablet,Accessories,7,14699,1,David,West,Debit Card,18-11-23,102893,1028.93,101864.07
+S1322,Camera,Wearables,6,16376,27,David,North,Credit Card,19-11-23,98256,26529.12,71726.88
+S1323,Camera,Electronics,3,8745,22,Eve,West,UPI,20-11-23,26235,5771.7,20463.3
+S1324,Smartphone,Accessories,9,7714,18,Bob,East,Debit Card,21-11-23,69426,12496.68,56929.32
+S1325,Smartphone,Electronics,6,1226,18,Alice,South,Credit Card,22-11-23,7356,1324.08,6031.92
+S1326,Smartwatch,Electronics,6,47100,4,Bob,North,Debit Card,23-11-23,282600,11304,271296
+S1327,Monitor,Accessories,1,11862,18,Grace,West,Credit Card,24-11-23,11862,2135.16,9726.84
+S1328,Smartwatch,Wearables,4,18797,1,Grace,East,UPI,25-11-23,75188,751.88,74436.12
+S1329,Keyboard,Wearables,6,30948,9,Grace,East,Cash,26-11-23,185688,16711.92,168976.08
+S1330,Headphones,Wearables,6,26672,24,Hannah,North,UPI,27-11-23,160032,38407.68,121624.32
+S1331,Mouse,Office Supplies,5,43374,1,Alice,East,Cash,28-11-23,216870,2168.7,214701.3
+S1332,Smartphone,Accessories,1,8157,29,Alice,East,Cash,29-11-23,8157,2365.53,5791.47
+S1333,Monitor,Office Supplies,8,19350,10,Charlie,East,Net Banking,30-11-23,154800,15480,139320
+S1334,Mouse,Office Supplies,5,25925,17,Bob,East,Debit Card,01-12-23,129625,22036.25,107588.75
+S1335,Keyboard,Office Supplies,5,27185,28,Hannah,West,Net Banking,02-12-23,135925,38059,97866
+S1336,Headphones,Electronics,7,47819,23,Grace,North,Credit Card,03-12-23,334733,76988.59,257744.41
+S1337,Tablet,Electronics,4,25078,14,Frank,South,Credit Card,04-12-23,100312,14043.68,86268.32
+S1338,Smartwatch,Accessories,6,29331,8,Bob,South,Credit Card,05-12-23,175986,14078.88,161907.12
+S1339,Keyboard,Accessories,4,8406,22,Alice,East,Net Banking,06-12-23,33624,7397.28,26226.72
+S1340,Camera,Electronics,3,7787,18,David,West,UPI,07-12-23,23361,4204.98,19156.02
+S1341,Smartwatch,Electronics,7,34160,8,David,East,Net Banking,08-12-23,239120,19129.6,219990.4
+S1342,Laptop,Office Supplies,8,10722,2,Hannah,East,Net Banking,09-12-23,85776,1715.52,84060.48
+S1343,Smartwatch,Wearables,4,37943,20,Eve,West,UPI,10-12-23,151772,30354.4,121417.6
+S1344,Keyboard,Wearables,2,35201,8,Alice,North,UPI,11-12-23,70402,5632.16,64769.84
+S1345,Smartphone,Wearables,3,18264,27,Bob,South,UPI,12-12-23,54792,14793.84,39998.16
+S1346,Headphones,Wearables,1,45141,29,Eve,West,Debit Card,13-12-23,45141,13090.89,32050.11
+S1347,Keyboard,Wearables,8,18174,13,Alice,South,Net Banking,14-12-23,145392,18900.96,126491.04
+S1348,Smartphone,Office Supplies,3,18524,18,Charlie,West,Debit Card,15-12-23,55572,10002.96,45569.04
+S1349,Smartphone,Accessories,7,46507,6,Frank,West,Cash,16-12-23,325549,19532.94,306016.06
+S1350,Smartwatch,Electronics,5,24374,15,Alice,East,Cash,17-12-23,121870,18280.5,103589.5
+S1351,Headphones,Office Supplies,5,44142,15,David,North,Net Banking,18-12-23,220710,33106.5,187603.5
+S1352,Keyboard,Wearables,7,32784,27,Charlie,South,Credit Card,19-12-23,229488,61961.76,167526.24
+S1353,Keyboard,Electronics,9,18102,0,Grace,North,UPI,20-12-23,162918,0,162918
+S1354,Camera,Office Supplies,5,38284,3,Bob,East,Debit Card,21-12-23,191420,5742.6,185677.4
+S1355,Monitor,Wearables,1,23765,3,Eve,West,Cash,22-12-23,23765,712.95,23052.05
+S1356,Mouse,Office Supplies,1,26431,6,Charlie,South,Net Banking,23-12-23,26431,1585.86,24845.14
+S1357,Monitor,Electronics,2,29341,7,David,North,Credit Card,24-12-23,58682,4107.74,54574.26
+S1358,Keyboard,Accessories,6,29692,16,Grace,South,Net Banking,25-12-23,178152,28504.32,149647.68
+S1359,Smartwatch,Wearables,9,47042,4,Frank,South,Credit Card,26-12-23,423378,16935.12,406442.88
+S1360,Tablet,Electronics,8,43020,6,Grace,South,Net Banking,27-12-23,344160,20649.6,323510.4
+S1361,Keyboard,Electronics,5,16085,27,Charlie,North,UPI,28-12-23,80425,21714.75,58710.25
+S1362,Laptop,Accessories,1,26059,19,Bob,South,UPI,29-12-23,26059,4951.21,21107.79
+S1363,Smartphone,Office Supplies,7,40559,28,Frank,North,Credit Card,30-12-23,283913,79495.64,204417.36
+S1364,Printer,Accessories,5,34242,19,Alice,West,Net Banking,31-12-23,171210,32529.9,138680.1
+S1365,Keyboard,Accessories,6,4633,3,Bob,North,UPI,01-01-24,27798,833.94,26964.06
+S1366,Laptop,Office Supplies,7,15163,27,Grace,East,Net Banking,02-01-24,106141,28658.07,77482.93
+S1367,Laptop,Office Supplies,3,22254,5,David,South,Net Banking,03-01-24,66762,3338.1,63423.9
+S1368,Mouse,Office Supplies,3,4472,6,Bob,East,UPI,04-01-24,13416,804.96,12611.04
+S1369,Headphones,Electronics,5,5795,17,Frank,East,Cash,05-01-24,28975,4925.75,24049.25
+S1370,Keyboard,Electronics,6,47181,4,Grace,West,Cash,06-01-24,283086,11323.44,271762.56
+S1371,Headphones,Wearables,9,42373,19,Frank,West,Net Banking,07-01-24,381357,72457.83,308899.17
+S1372,Tablet,Wearables,5,29625,29,Alice,North,Cash,08-01-24,148125,42956.25,105168.75
+S1373,Smartwatch,Accessories,1,41496,28,Eve,North,Debit Card,09-01-24,41496,11618.88,29877.12
+S1374,Printer,Accessories,4,10403,2,Hannah,South,UPI,10-01-24,41612,832.24,40779.76
+S1375,Smartwatch,Wearables,5,3520,6,Hannah,East,Cash,11-01-24,17600,1056,16544
+S1376,Laptop,Accessories,5,42255,26,David,West,Cash,12-01-24,211275,54931.5,156343.5
+S1377,Smartphone,Office Supplies,7,20920,27,Frank,West,Net Banking,13-01-24,146440,39538.8,106901.2
+S1378,Smartphone,Electronics,4,21952,21,Grace,South,Credit Card,14-01-24,87808,18439.68,69368.32
+S1379,Headphones,Wearables,1,46148,13,Grace,West,Cash,15-01-24,46148,5999.24,40148.76
+S1380,Smartwatch,Electronics,5,38501,6,Charlie,East,Credit Card,16-01-24,192505,11550.3,180954.7
+S1381,Laptop,Wearables,7,10016,4,Grace,East,UPI,17-01-24,70112,2804.48,67307.52
+S1382,Mouse,Electronics,6,47827,28,Bob,South,Credit Card,18-01-24,286962,80349.36,206612.64
+S1383,Camera,Wearables,5,49969,21,Eve,East,Cash,19-01-24,249845,52467.45,197377.55
+S1384,Smartwatch,Electronics,4,2896,4,David,North,Debit Card,20-01-24,11584,463.36,11120.64
+S1385,Headphones,Office Supplies,2,19046,29,Bob,East,Debit Card,21-01-24,38092,11046.68,27045.32
+S1386,Printer,Wearables,4,19629,22,Bob,North,UPI,22-01-24,78516,17273.52,61242.48
+S1387,Headphones,Wearables,3,2091,1,Eve,West,Cash,23-01-24,6273,62.73,6210.27
+S1388,Laptop,Wearables,1,11803,29,Charlie,North,UPI,24-01-24,11803,3422.87,8380.13
+S1389,Keyboard,Office Supplies,8,31061,26,Grace,South,Net Banking,25-01-24,248488,64606.88,183881.12
+S1390,Mouse,Electronics,5,6683,20,Charlie,South,Net Banking,26-01-24,33415,6683,26732
+S1391,Laptop,Wearables,4,27072,21,Grace,South,Credit Card,27-01-24,108288,22740.48,85547.52
+S1392,Mouse,Electronics,8,34580,5,Frank,South,UPI,28-01-24,276640,13832,262808
+S1393,Monitor,Office Supplies,7,21195,14,Frank,South,Debit Card,29-01-24,148365,20771.1,127593.9
+S1394,Monitor,Accessories,2,7814,20,Bob,East,UPI,30-01-24,15628,3125.6,12502.4
+S1395,Smartphone,Wearables,1,20123,9,Bob,West,Credit Card,31-01-24,20123,1811.07,18311.93
+S1396,Mouse,Office Supplies,4,2639,22,Alice,North,Cash,01-02-24,10556,2322.32,8233.68
+S1397,Smartwatch,Electronics,8,47956,25,Eve,North,UPI,02-02-24,383648,95912,287736
+S1398,Printer,Wearables,2,31790,23,Hannah,West,Credit Card,03-02-24,63580,14623.4,48956.6
+S1399,Camera,Electronics,3,18588,6,Frank,South,Net Banking,04-02-24,55764,3345.84,52418.16
+S1400,Headphones,Accessories,1,40192,4,Eve,South,Debit Card,05-02-24,40192,1607.68,38584.32
+S1401,Monitor,Wearables,1,33630,0,Bob,North,Cash,06-02-24,33630,0,33630
+S1402,Headphones,Wearables,3,32588,12,Charlie,South,UPI,07-02-24,97764,11731.68,86032.32
+S1403,Headphones,Electronics,5,26792,20,Bob,East,UPI,08-02-24,133960,26792,107168
+S1404,Printer,Wearables,3,46749,25,Charlie,East,Debit Card,09-02-24,140247,35061.75,105185.25
+S1405,Laptop,Office Supplies,1,21170,17,Grace,East,Net Banking,10-02-24,21170,3598.9,17571.1
+S1406,Headphones,Office Supplies,1,4238,12,Hannah,West,UPI,11-02-24,4238,508.56,3729.44
+S1407,Mouse,Accessories,8,2969,20,Grace,West,Debit Card,12-02-24,23752,4750.4,19001.6
+S1408,Printer,Office Supplies,2,23034,20,Bob,East,Debit Card,13-02-24,46068,9213.6,36854.4
+S1409,Monitor,Accessories,3,49374,17,Alice,West,Cash,14-02-24,148122,25180.74,122941.26
+S1410,Keyboard,Electronics,2,9517,4,Bob,East,Debit Card,15-02-24,19034,761.36,18272.64
+S1411,Headphones,Electronics,3,3308,12,Frank,South,Debit Card,16-02-24,9924,1190.88,8733.12
+S1412,Smartphone,Accessories,7,49638,3,Bob,West,Debit Card,17-02-24,347466,10423.98,337042.02
+S1413,Printer,Office Supplies,1,48138,16,Frank,East,UPI,18-02-24,48138,7702.08,40435.92
+S1414,Laptop,Office Supplies,8,13213,2,Grace,West,Debit Card,19-02-24,105704,2114.08,103589.92
+S1415,Tablet,Accessories,2,40829,16,Alice,North,Debit Card,20-02-24,81658,13065.28,68592.72
+S1416,Monitor,Accessories,3,3219,27,Eve,North,Debit Card,21-02-24,9657,2607.39,7049.61
+S1417,Monitor,Electronics,9,23390,10,Grace,East,Debit Card,22-02-24,210510,21051,189459
+S1418,Tablet,Accessories,7,12200,20,Grace,East,Net Banking,23-02-24,85400,17080,68320
+S1419,Mouse,Office Supplies,4,37009,19,Bob,East,UPI,24-02-24,148036,28126.84,119909.16
+S1420,Keyboard,Accessories,5,43034,22,David,North,Debit Card,25-02-24,215170,47337.4,167832.6
+S1421,Monitor,Accessories,2,37266,20,Charlie,West,Credit Card,26-02-24,74532,14906.4,59625.6
+S1422,Monitor,Accessories,8,27205,25,Grace,North,Credit Card,27-02-24,217640,54410,163230
+S1423,Laptop,Electronics,4,19287,29,Charlie,East,Credit Card,28-02-24,77148,22372.92,54775.08
+S1424,Monitor,Accessories,9,49345,3,Charlie,East,Cash,29-02-24,444105,13323.15,430781.85
+S1425,Printer,Wearables,5,27088,1,Eve,East,Net Banking,01-03-24,135440,1354.4,134085.6
+S1426,Mouse,Wearables,9,26623,19,Eve,East,Credit Card,02-03-24,239607,45525.33,194081.67
+S1427,Keyboard,Wearables,4,33562,15,Eve,East,Net Banking,03-03-24,134248,20137.2,114110.8
+S1428,Smartphone,Office Supplies,5,10677,27,Hannah,East,Credit Card,04-03-24,53385,14413.95,38971.05
+S1429,Keyboard,Office Supplies,9,22227,17,Charlie,South,Cash,05-03-24,200043,34007.31,166035.69
+S1430,Mouse,Accessories,8,30720,7,Bob,South,UPI,06-03-24,245760,17203.2,228556.8
+S1431,Smartwatch,Wearables,3,10382,2,Charlie,South,Net Banking,07-03-24,31146,622.92,30523.08
+S1432,Printer,Electronics,1,1636,8,Grace,North,UPI,08-03-24,1636,130.88,1505.12
+S1433,Smartwatch,Wearables,3,35332,28,Eve,West,Cash,09-03-24,105996,29678.88,76317.12
+S1434,Mouse,Wearables,4,32466,19,Grace,East,Net Banking,10-03-24,129864,24674.16,105189.84
+S1435,Laptop,Office Supplies,2,7509,28,Eve,South,UPI,11-03-24,15018,4205.04,10812.96
+S1436,Smartphone,Office Supplies,1,13487,5,Hannah,North,Cash,12-03-24,13487,674.35,12812.65
+S1437,Keyboard,Electronics,7,37811,9,Bob,West,Debit Card,13-03-24,264677,23820.93,240856.07
+S1438,Headphones,Office Supplies,8,32075,20,Frank,East,Net Banking,14-03-24,256600,51320,205280
+S1439,Camera,Electronics,7,1507,9,Eve,East,UPI,15-03-24,10549,949.41,9599.59
+S1440,Keyboard,Office Supplies,5,5945,12,David,West,Cash,16-03-24,29725,3567,26158
+S1441,Laptop,Wearables,1,11206,16,Hannah,West,Debit Card,17-03-24,11206,1792.96,9413.04
+S1442,Smartphone,Wearables,7,48017,8,David,West,Net Banking,18-03-24,336119,26889.52,309229.48
+S1443,Camera,Electronics,7,44986,16,Hannah,North,Debit Card,19-03-24,314902,50384.32,264517.68
+S1444,Printer,Electronics,9,29757,23,Bob,South,Credit Card,20-03-24,267813,61596.99,206216.01
+S1445,Mouse,Office Supplies,3,22236,8,Charlie,East,Net Banking,21-03-24,66708,5336.64,61371.36
+S1446,Mouse,Office Supplies,9,42707,8,Eve,South,Cash,22-03-24,384363,30749.04,353613.96
+S1447,Printer,Electronics,1,13781,0,Alice,West,Cash,23-03-24,13781,0,13781
+S1448,Camera,Electronics,1,1935,1,Grace,East,Net Banking,24-03-24,1935,19.35,1915.65
+S1449,Smartwatch,Wearables,4,33839,27,Frank,East,Credit Card,25-03-24,135356,36546.12,98809.88
+S1450,Smartphone,Wearables,9,35650,15,Grace,South,Net Banking,26-03-24,320850,48127.5,272722.5
+S1451,Printer,Electronics,6,26321,28,Frank,South,UPI,27-03-24,157926,44219.28,113706.72
+S1452,Camera,Wearables,3,27160,0,Hannah,East,Cash,28-03-24,81480,0,81480
+S1453,Monitor,Accessories,1,5584,9,Frank,North,Debit Card,29-03-24,5584,502.56,5081.44
+S1454,Keyboard,Office Supplies,4,17161,17,Grace,West,Cash,30-03-24,68644,11669.48,56974.52
+S1455,Laptop,Wearables,9,14007,25,Charlie,South,Credit Card,31-03-24,126063,31515.75,94547.25
+S1456,Printer,Accessories,3,7559,27,Eve,East,Net Banking,01-04-24,22677,6122.79,16554.21
+S1457,Laptop,Electronics,9,18771,7,Frank,South,Cash,02-04-24,168939,11825.73,157113.27
+S1458,Smartwatch,Wearables,7,46039,20,David,East,UPI,03-04-24,322273,64454.6,257818.4
+S1459,Smartwatch,Electronics,4,7991,27,Hannah,North,Credit Card,04-04-24,31964,8630.28,23333.72
+S1460,Monitor,Office Supplies,3,47795,10,Frank,South,Credit Card,05-04-24,143385,14338.5,129046.5
+S1461,Mouse,Electronics,5,15359,22,Charlie,East,Debit Card,06-04-24,76795,16894.9,59900.1
+S1462,Printer,Accessories,5,8573,1,Grace,South,Cash,07-04-24,42865,428.65,42436.35
+S1463,Smartphone,Electronics,3,9577,7,Frank,East,Net Banking,08-04-24,28731,2011.17,26719.83
+S1464,Mouse,Accessories,9,21453,26,Eve,West,Credit Card,09-04-24,193077,50200.02,142876.98
+S1465,Camera,Wearables,4,11883,21,Hannah,East,UPI,10-04-24,47532,9981.72,37550.28
+S1466,Mouse,Wearables,5,49646,7,David,East,UPI,11-04-24,248230,17376.1,230853.9
+S1467,Smartphone,Accessories,4,2853,16,Frank,East,Net Banking,12-04-24,11412,1825.92,9586.08
+S1468,Keyboard,Office Supplies,5,24321,14,Grace,East,UPI,13-04-24,121605,17024.7,104580.3
+S1469,Smartwatch,Office Supplies,7,38067,16,Eve,West,Debit Card,14-04-24,266469,42635.04,223833.96
+S1470,Keyboard,Office Supplies,9,25360,27,Grace,North,Net Banking,15-04-24,228240,61624.8,166615.2
+S1471,Printer,Wearables,7,21695,22,Frank,West,UPI,16-04-24,151865,33410.3,118454.7
+S1472,Mouse,Wearables,5,12439,23,Bob,North,Debit Card,17-04-24,62195,14304.85,47890.15
+S1473,Printer,Office Supplies,7,25838,12,David,North,UPI,18-04-24,180866,21703.92,159162.08
+S1474,Keyboard,Electronics,5,22230,18,Charlie,West,Cash,19-04-24,111150,20007,91143
+S1475,Smartwatch,Office Supplies,3,21927,4,Alice,South,Net Banking,20-04-24,65781,2631.24,63149.76
+S1476,Headphones,Electronics,7,35696,11,Hannah,North,UPI,21-04-24,249872,27485.92,222386.08
+S1477,Monitor,Office Supplies,2,27583,0,David,West,UPI,22-04-24,55166,0,55166
+S1478,Printer,Electronics,9,22010,22,Hannah,East,Debit Card,23-04-24,198090,43579.8,154510.2
+S1479,Printer,Wearables,1,44564,4,Eve,West,Cash,24-04-24,44564,1782.56,42781.44
+S1480,Headphones,Office Supplies,6,8313,7,Bob,North,Cash,25-04-24,49878,3491.46,46386.54
+S1481,Camera,Office Supplies,7,32098,12,Grace,South,Debit Card,26-04-24,224686,26962.32,197723.68
+S1482,Camera,Accessories,8,47682,7,Hannah,South,Cash,27-04-24,381456,26701.92,354754.08
+S1483,Keyboard,Office Supplies,9,28070,24,Charlie,South,UPI,28-04-24,252630,60631.2,191998.8
+S1484,Printer,Electronics,2,27582,22,Eve,East,UPI,29-04-24,55164,12136.08,43027.92
+S1485,Smartwatch,Accessories,2,29741,10,David,West,Cash,30-04-24,59482,5948.2,53533.8
+S1486,Laptop,Office Supplies,5,31178,0,Eve,West,UPI,01-05-24,155890,0,155890
+S1487,Keyboard,Office Supplies,5,45069,12,Charlie,South,Cash,02-05-24,225345,27041.4,198303.6
+S1488,Keyboard,Wearables,6,12245,18,Grace,East,Debit Card,03-05-24,73470,13224.6,60245.4
+S1489,Monitor,Accessories,3,26529,23,Grace,South,Net Banking,04-05-24,79587,18305.01,61281.99
+S1490,Printer,Electronics,8,13525,2,Bob,North,Debit Card,05-05-24,108200,2164,106036
+S1491,Camera,Office Supplies,1,36624,23,Hannah,West,Net Banking,06-05-24,36624,8423.52,28200.48
+S1492,Camera,Wearables,6,14788,16,Hannah,East,Debit Card,07-05-24,88728,14196.48,74531.52
+S1493,Mouse,Office Supplies,4,24150,4,Grace,South,Credit Card,08-05-24,96600,3864,92736
+S1494,Tablet,Accessories,1,7040,19,Grace,East,UPI,09-05-24,7040,1337.6,5702.4
+S1495,Tablet,Electronics,7,32732,20,Alice,North,Debit Card,10-05-24,229124,45824.8,183299.2
+S1496,Tablet,Wearables,9,16922,7,Frank,North,Net Banking,11-05-24,152298,10660.86,141637.14
+S1497,Monitor,Office Supplies,4,3842,25,Bob,West,Cash,12-05-24,15368,3842,11526
+S1498,Smartwatch,Electronics,4,42346,13,Bob,East,Cash,13-05-24,169384,22019.92,147364.08
+S1499,Tablet,Office Supplies,6,36112,3,David,South,Debit Card,14-05-24,216672,6500.16,210171.84
+S1500,Headphones,Office Supplies,3,10896,10,Frank,South,Debit Card,15-05-24,32688,3268.8,29419.2
+S1501,Smartphone,Accessories,6,17982,19,Charlie,South,Debit Card,16-05-24,107892,20499.48,87392.52
+S1502,Keyboard,Accessories,7,23911,14,Alice,West,Cash,17-05-24,167377,23432.78,143944.22
+S1503,Smartwatch,Office Supplies,3,47266,18,Grace,North,Credit Card,18-05-24,141798,25523.64,116274.36
+S1504,Camera,Wearables,7,13761,6,Frank,South,Debit Card,19-05-24,96327,5779.62,90547.38
+S1505,Mouse,Accessories,3,3593,18,Grace,West,Cash,20-05-24,10779,1940.22,8838.78
+S1506,Smartphone,Accessories,2,12222,27,Bob,West,Cash,21-05-24,24444,6599.88,17844.12
+S1507,Monitor,Accessories,4,22542,18,Alice,West,Debit Card,22-05-24,90168,16230.24,73937.76
+S1508,Keyboard,Accessories,8,44913,10,Bob,West,Net Banking,23-05-24,359304,35930.4,323373.6
+S1509,Monitor,Electronics,9,48351,25,Eve,West,Net Banking,24-05-24,435159,108789.75,326369.25
+S1510,Monitor,Office Supplies,7,28587,4,David,West,UPI,25-05-24,200109,8004.36,192104.64
+S1511,Headphones,Electronics,1,32847,4,David,North,Cash,26-05-24,32847,1313.88,31533.12
+S1512,Laptop,Electronics,3,34256,29,Hannah,North,UPI,27-05-24,102768,29802.72,72965.28
+S1513,Laptop,Office Supplies,9,39714,21,Frank,South,UPI,28-05-24,357426,75059.46,282366.54
+S1514,Monitor,Accessories,1,16835,7,Grace,East,Net Banking,29-05-24,16835,1178.45,15656.55
+S1515,Tablet,Wearables,9,29102,9,Hannah,North,Net Banking,30-05-24,261918,23572.62,238345.38
+S1516,Camera,Accessories,8,49401,5,Charlie,East,Credit Card,31-05-24,395208,19760.4,375447.6
+S1517,Smartphone,Accessories,1,34950,14,Frank,South,Cash,01-06-24,34950,4893,30057
+S1518,Tablet,Accessories,6,32696,15,Alice,North,Credit Card,02-06-24,196176,29426.4,166749.6
+S1519,Printer,Accessories,5,6126,27,Hannah,North,Debit Card,03-06-24,30630,8270.1,22359.9
+S1520,Camera,Wearables,6,7924,16,Bob,South,Credit Card,04-06-24,47544,7607.04,39936.96
+S1521,Monitor,Electronics,5,13357,7,Eve,South,Debit Card,05-06-24,66785,4674.95,62110.05
+S1522,Printer,Wearables,6,45423,7,Grace,East,UPI,06-06-24,272538,19077.66,253460.34
+S1523,Tablet,Office Supplies,5,20482,24,Bob,East,Cash,07-06-24,102410,24578.4,77831.6
+S1524,Printer,Accessories,5,11925,8,Bob,South,Credit Card,08-06-24,59625,4770,54855
+S1525,Monitor,Wearables,4,2480,1,Charlie,North,Cash,09-06-24,9920,99.2,9820.8
+S1526,Headphones,Office Supplies,3,48790,14,Frank,West,UPI,10-06-24,146370,20491.8,125878.2
+S1527,Laptop,Wearables,3,26931,17,Eve,East,UPI,11-06-24,80793,13734.81,67058.19
+S1528,Smartphone,Accessories,4,19940,2,Frank,South,UPI,12-06-24,79760,1595.2,78164.8
+S1529,Printer,Accessories,9,42252,16,Hannah,North,UPI,13-06-24,380268,60842.88,319425.12
+S1530,Monitor,Office Supplies,2,17675,3,David,North,Net Banking,14-06-24,35350,1060.5,34289.5
+S1531,Headphones,Wearables,9,49151,29,Hannah,East,Net Banking,15-06-24,442359,128284.11,314074.89
+S1532,Smartwatch,Accessories,1,26885,3,Frank,East,UPI,16-06-24,26885,806.55,26078.45
+S1533,Tablet,Office Supplies,1,38658,13,Hannah,West,UPI,17-06-24,38658,5025.54,33632.46
+S1534,Laptop,Wearables,5,23519,8,Bob,East,Credit Card,18-06-24,117595,9407.6,108187.4
+S1535,Smartwatch,Wearables,6,19139,8,Hannah,West,Cash,19-06-24,114834,9186.72,105647.28
+S1536,Monitor,Office Supplies,6,20494,24,Hannah,South,Credit Card,20-06-24,122964,29511.36,93452.64
+S1537,Smartphone,Wearables,3,34875,25,Frank,East,UPI,21-06-24,104625,26156.25,78468.75
+S1538,Tablet,Wearables,7,22063,22,Bob,West,Net Banking,22-06-24,154441,33977.02,120463.98
+S1539,Headphones,Accessories,9,39841,29,Eve,East,Debit Card,23-06-24,358569,103985.01,254583.99
+S1540,Tablet,Accessories,8,6276,17,Alice,South,Net Banking,24-06-24,50208,8535.36,41672.64
+S1541,Smartwatch,Accessories,6,36944,9,Bob,South,Net Banking,25-06-24,221664,19949.76,201714.24
+S1542,Smartwatch,Office Supplies,8,3880,20,Alice,West,Net Banking,26-06-24,31040,6208,24832
+S1543,Camera,Electronics,5,9211,3,Frank,North,Debit Card,27-06-24,46055,1381.65,44673.35
+S1544,Mouse,Wearables,8,9282,11,Bob,South,UPI,28-06-24,74256,8168.16,66087.84
+S1545,Tablet,Office Supplies,4,17934,26,Charlie,South,UPI,29-06-24,71736,18651.36,53084.64
+S1546,Camera,Electronics,8,47265,7,David,South,UPI,30-06-24,378120,26468.4,351651.6
+S1547,Smartwatch,Electronics,2,20517,1,Charlie,South,Net Banking,01-07-24,41034,410.34,40623.66
+S1548,Printer,Office Supplies,5,31207,21,Charlie,North,Cash,02-07-24,156035,32767.35,123267.65
+S1549,Smartwatch,Electronics,9,39610,12,Frank,South,Cash,03-07-24,356490,42778.8,313711.2
+S1550,Tablet,Accessories,4,17843,20,Grace,North,Credit Card,04-07-24,71372,14274.4,57097.6
+S1551,Headphones,Office Supplies,6,39327,15,Hannah,East,Cash,05-07-24,235962,35394.3,200567.7
+S1552,Tablet,Wearables,1,42152,27,David,North,Net Banking,06-07-24,42152,11381.04,30770.96
+S1553,Tablet,Accessories,9,6155,1,Grace,West,UPI,07-07-24,55395,553.95,54841.05
+S1554,Keyboard,Wearables,1,45359,10,Charlie,East,Cash,08-07-24,45359,4535.9,40823.1
+S1555,Monitor,Electronics,5,15751,9,Charlie,North,Debit Card,09-07-24,78755,7087.95,71667.05
+S1556,Keyboard,Accessories,4,1026,14,Grace,North,Debit Card,10-07-24,4104,574.56,3529.44
+S1557,Smartwatch,Wearables,3,3724,16,Grace,North,UPI,11-07-24,11172,1787.52,9384.48
+S1558,Tablet,Office Supplies,6,48337,7,Alice,North,Cash,12-07-24,290022,20301.54,269720.46
+S1559,Monitor,Electronics,2,12036,17,David,North,Net Banking,13-07-24,24072,4092.24,19979.76
+S1560,Keyboard,Wearables,3,29041,22,Hannah,North,Net Banking,14-07-24,87123,19167.06,67955.94
+S1561,Tablet,Electronics,5,14047,8,Grace,West,Cash,15-07-24,70235,5618.8,64616.2
+S1562,Smartphone,Wearables,9,35031,24,Grace,West,Credit Card,16-07-24,315279,75666.96,239612.04
+S1563,Keyboard,Office Supplies,2,9212,7,Alice,West,Credit Card,17-07-24,18424,1289.68,17134.32
+S1564,Monitor,Accessories,8,39065,26,David,North,Debit Card,18-07-24,312520,81255.2,231264.8
+S1565,Keyboard,Wearables,2,9708,13,David,East,UPI,19-07-24,19416,2524.08,16891.92
+S1566,Mouse,Electronics,5,5609,27,Eve,West,Debit Card,20-07-24,28045,7572.15,20472.85
+S1567,Mouse,Office Supplies,7,49768,25,Bob,South,UPI,21-07-24,348376,87094,261282
+S1568,Smartwatch,Accessories,8,35701,24,Bob,South,UPI,22-07-24,285608,68545.92,217062.08
+S1569,Smartphone,Electronics,1,17467,17,Charlie,North,UPI,23-07-24,17467,2969.39,14497.61
+S1570,Headphones,Office Supplies,6,30259,21,Frank,East,UPI,24-07-24,181554,38126.34,143427.66
+S1571,Headphones,Electronics,1,20672,19,Frank,West,Net Banking,25-07-24,20672,3927.68,16744.32
+S1572,Monitor,Office Supplies,2,37435,29,David,North,Cash,26-07-24,74870,21712.3,53157.7
+S1573,Printer,Accessories,1,27089,19,Hannah,East,UPI,27-07-24,27089,5146.91,21942.09
+S1574,Headphones,Accessories,5,30515,20,Bob,South,Cash,28-07-24,152575,30515,122060
+S1575,Monitor,Electronics,9,29509,11,Eve,West,UPI,29-07-24,265581,29213.91,236367.09
+S1576,Smartphone,Office Supplies,6,18273,18,Hannah,North,Net Banking,30-07-24,109638,19734.84,89903.16
+S1577,Printer,Wearables,1,41625,13,Frank,North,Net Banking,31-07-24,41625,5411.25,36213.75
+S1578,Printer,Accessories,1,26643,16,Grace,East,Cash,01-08-24,26643,4262.88,22380.12
+S1579,Mouse,Wearables,2,6654,23,Grace,North,Cash,02-08-24,13308,3060.84,10247.16
+S1580,Smartwatch,Wearables,9,22304,20,Bob,North,Debit Card,03-08-24,200736,40147.2,160588.8
+S1581,Tablet,Electronics,3,42188,2,Frank,West,Debit Card,04-08-24,126564,2531.28,124032.72
+S1582,Printer,Electronics,1,21081,25,Frank,South,Credit Card,05-08-24,21081,5270.25,15810.75
+S1583,Laptop,Electronics,5,30587,29,Hannah,South,Debit Card,06-08-24,152935,44351.15,108583.85
+S1584,Monitor,Office Supplies,7,33481,22,Charlie,East,Debit Card,07-08-24,234367,51560.74,182806.26
+S1585,Printer,Accessories,6,4262,6,Eve,South,UPI,08-08-24,25572,1534.32,24037.68
+S1586,Printer,Accessories,1,46667,16,Bob,East,Credit Card,09-08-24,46667,7466.72,39200.28
+S1587,Camera,Wearables,5,10268,11,Charlie,West,Debit Card,10-08-24,51340,5647.4,45692.6
+S1588,Laptop,Electronics,5,43908,8,Frank,East,Debit Card,11-08-24,219540,17563.2,201976.8
+S1589,Camera,Office Supplies,6,39999,14,Bob,South,Cash,12-08-24,239994,33599.16,206394.84
+S1590,Printer,Accessories,3,39059,17,David,North,Credit Card,13-08-24,117177,19920.09,97256.91
+S1591,Tablet,Office Supplies,5,49090,20,Eve,West,Credit Card,14-08-24,245450,49090,196360
+S1592,Laptop,Electronics,7,9283,12,Bob,South,Credit Card,15-08-24,64981,7797.72,57183.28
+S1593,Mouse,Electronics,5,46889,29,Charlie,West,Cash,16-08-24,234445,67989.05,166455.95
+S1594,Keyboard,Accessories,5,30281,20,Frank,East,Net Banking,17-08-24,151405,30281,121124
+S1595,Printer,Wearables,5,31311,29,Charlie,South,Credit Card,18-08-24,156555,45400.95,111154.05
+S1596,Printer,Wearables,3,49287,7,Grace,North,Credit Card,19-08-24,147861,10350.27,137510.73
+S1597,Smartwatch,Electronics,1,35988,13,Grace,North,Cash,20-08-24,35988,4678.44,31309.56
+S1598,Smartwatch,Electronics,5,9405,7,Charlie,North,Net Banking,21-08-24,47025,3291.75,43733.25
+S1599,Camera,Wearables,9,9627,13,Grace,North,Credit Card,22-08-24,86643,11263.59,75379.41
+S1600,Monitor,Electronics,1,22931,6,Grace,West,Credit Card,23-08-24,22931,1375.86,21555.14
+S1601,Tablet,Accessories,3,49653,22,Charlie,South,UPI,24-08-24,148959,32770.98,116188.02
+S1602,Monitor,Accessories,4,6868,11,Hannah,North,Net Banking,25-08-24,27472,3021.92,24450.08
+S1603,Keyboard,Office Supplies,1,27924,10,Charlie,North,Debit Card,26-08-24,27924,2792.4,25131.6
+S1604,Printer,Wearables,1,47324,21,Charlie,North,Credit Card,27-08-24,47324,9938.04,37385.96
+S1605,Tablet,Electronics,8,45504,21,Hannah,East,Cash,28-08-24,364032,76446.72,287585.28
+S1606,Laptop,Office Supplies,2,18833,10,Eve,South,UPI,29-08-24,37666,3766.6,33899.4
+S1607,Printer,Accessories,8,23616,24,Charlie,West,Debit Card,30-08-24,188928,45342.72,143585.28
+S1608,Mouse,Wearables,7,47719,21,Charlie,East,Debit Card,31-08-24,334033,70146.93,263886.07
+S1609,Printer,Accessories,2,43701,27,Frank,East,UPI,01-09-24,87402,23598.54,63803.46
+S1610,Headphones,Electronics,6,16025,28,Hannah,West,Cash,02-09-24,96150,26922,69228
+S1611,Tablet,Office Supplies,6,23898,12,Alice,North,Debit Card,03-09-24,143388,17206.56,126181.44
+S1612,Headphones,Electronics,3,33357,17,Frank,North,Debit Card,04-09-24,100071,17012.07,83058.93
+S1613,Camera,Electronics,2,10861,1,Alice,South,Net Banking,05-09-24,21722,217.22,21504.78
+S1614,Smartwatch,Wearables,1,16869,28,Hannah,North,Debit Card,06-09-24,16869,4723.32,12145.68
+S1615,Laptop,Wearables,6,3541,20,Charlie,East,Credit Card,07-09-24,21246,4249.2,16996.8
+S1616,Printer,Electronics,5,605,14,David,East,Credit Card,08-09-24,3025,423.5,2601.5
+S1617,Camera,Wearables,9,9578,19,Grace,East,UPI,09-09-24,86202,16378.38,69823.62
+S1618,Camera,Office Supplies,1,25503,26,Hannah,West,UPI,10-09-24,25503,6630.78,18872.22
+S1619,Laptop,Office Supplies,7,6590,17,Grace,North,Cash,11-09-24,46130,7842.1,38287.9
+S1620,Smartphone,Electronics,5,39350,14,Hannah,North,Cash,12-09-24,196750,27545,169205
+S1621,Printer,Office Supplies,5,2425,18,Grace,North,Net Banking,13-09-24,12125,2182.5,9942.5
+S1622,Headphones,Electronics,2,18940,22,Hannah,North,UPI,14-09-24,37880,8333.6,29546.4
+S1623,Tablet,Office Supplies,3,40185,23,Hannah,South,Net Banking,15-09-24,120555,27727.65,92827.35
+S1624,Headphones,Accessories,7,26515,11,Charlie,South,Cash,16-09-24,185605,20416.55,165188.45
+S1625,Laptop,Electronics,6,33820,12,Bob,East,Debit Card,17-09-24,202920,24350.4,178569.6
+S1626,Keyboard,Office Supplies,2,25791,21,Alice,East,Net Banking,18-09-24,51582,10832.22,40749.78
+S1627,Printer,Accessories,6,37179,10,David,West,Debit Card,19-09-24,223074,22307.4,200766.6
+S1628,Mouse,Electronics,2,26789,4,Eve,East,Net Banking,20-09-24,53578,2143.12,51434.88
+S1629,Monitor,Office Supplies,2,3889,28,Alice,North,Net Banking,21-09-24,7778,2177.84,5600.16
+S1630,Tablet,Office Supplies,2,26183,0,Eve,East,Cash,22-09-24,52366,0,52366
+S1631,Mouse,Accessories,3,14129,23,David,East,Net Banking,23-09-24,42387,9749.01,32637.99
+S1632,Mouse,Wearables,2,25326,2,Eve,South,Cash,24-09-24,50652,1013.04,49638.96
+S1633,Printer,Wearables,4,35698,21,Charlie,North,Net Banking,25-09-24,142792,29986.32,112805.68
+S1634,Keyboard,Accessories,9,27130,18,Hannah,West,Net Banking,26-09-24,244170,43950.6,200219.4
+S1635,Printer,Accessories,6,33726,22,Hannah,West,UPI,27-09-24,202356,44518.32,157837.68
+S1636,Keyboard,Electronics,1,46663,28,Bob,West,UPI,28-09-24,46663,13065.64,33597.36
+S1637,Smartphone,Wearables,8,33475,29,Bob,East,Cash,29-09-24,267800,77662,190138
+S1638,Tablet,Electronics,7,1399,6,Eve,West,Net Banking,30-09-24,9793,587.58,9205.42
+S1639,Laptop,Office Supplies,3,12153,11,Frank,West,Debit Card,01-10-24,36459,4010.49,32448.51
+S1640,Smartwatch,Accessories,1,28461,14,Alice,West,Credit Card,02-10-24,28461,3984.54,24476.46
+S1641,Laptop,Electronics,5,16905,24,Hannah,South,Cash,03-10-24,84525,20286,64239
+S1642,Mouse,Accessories,4,9101,4,David,North,UPI,04-10-24,36404,1456.16,34947.84
+S1643,Monitor,Electronics,8,34162,14,Grace,South,UPI,05-10-24,273296,38261.44,235034.56
+S1644,Smartphone,Office Supplies,1,33782,7,Bob,North,Cash,06-10-24,33782,2364.74,31417.26
+S1645,Laptop,Office Supplies,1,21788,9,David,South,UPI,07-10-24,21788,1960.92,19827.08
+S1646,Laptop,Wearables,4,30045,25,Eve,North,Debit Card,08-10-24,120180,30045,90135
+S1647,Monitor,Wearables,8,37377,15,Alice,West,UPI,09-10-24,299016,44852.4,254163.6
+S1648,Monitor,Office Supplies,5,46526,7,Hannah,West,Credit Card,10-10-24,232630,16284.1,216345.9
+S1649,Laptop,Electronics,2,15813,0,Eve,West,Credit Card,11-10-24,31626,0,31626
+S1650,Camera,Accessories,6,15849,11,Frank,South,Net Banking,12-10-24,95094,10460.34,84633.66
+S1651,Headphones,Office Supplies,5,7679,4,Bob,West,Debit Card,13-10-24,38395,1535.8,36859.2
+S1652,Monitor,Office Supplies,2,10826,2,Hannah,East,UPI,14-10-24,21652,433.04,21218.96
+S1653,Headphones,Electronics,3,45055,0,Bob,North,UPI,15-10-24,135165,0,135165
+S1654,Tablet,Office Supplies,9,2060,3,David,South,Cash,16-10-24,18540,556.2,17983.8
+S1655,Smartphone,Office Supplies,7,14112,7,David,West,Net Banking,17-10-24,98784,6914.88,91869.12
+S1656,Camera,Electronics,7,18150,2,Frank,West,Credit Card,18-10-24,127050,2541,124509
+S1657,Monitor,Office Supplies,6,27245,9,Grace,North,Cash,19-10-24,163470,14712.3,148757.7
+S1658,Tablet,Wearables,8,32390,1,Charlie,West,Cash,20-10-24,259120,2591.2,256528.8
+S1659,Keyboard,Wearables,4,20522,10,Charlie,West,UPI,21-10-24,82088,8208.8,73879.2
+S1660,Mouse,Wearables,8,5280,24,David,North,Credit Card,22-10-24,42240,10137.6,32102.4
+S1661,Headphones,Wearables,4,18811,9,David,North,Cash,23-10-24,75244,6771.96,68472.04
+S1662,Camera,Office Supplies,8,28880,20,Alice,East,UPI,24-10-24,231040,46208,184832
+S1663,Camera,Accessories,9,45162,13,Frank,East,Net Banking,25-10-24,406458,52839.54,353618.46
+S1664,Smartphone,Wearables,3,2856,6,Eve,North,Debit Card,26-10-24,8568,514.08,8053.92
+S1665,Headphones,Wearables,3,5290,26,Charlie,South,Credit Card,27-10-24,15870,4126.2,11743.8
+S1666,Keyboard,Office Supplies,2,27411,26,Frank,East,Net Banking,28-10-24,54822,14253.72,40568.28
+S1667,Smartphone,Office Supplies,3,49958,1,Eve,North,UPI,29-10-24,149874,1498.74,148375.26
+S1668,Camera,Electronics,3,24863,8,Eve,West,Debit Card,30-10-24,74589,5967.12,68621.88
+S1669,Laptop,Wearables,5,20549,15,Eve,South,Cash,31-10-24,102745,15411.75,87333.25
+S1670,Keyboard,Electronics,5,10681,12,Bob,West,Net Banking,01-11-24,53405,6408.6,46996.4
+S1671,Camera,Wearables,2,40325,8,Charlie,East,Cash,02-11-24,80650,6452,74198
+S1672,Printer,Accessories,6,16582,19,Grace,West,Cash,03-11-24,99492,18903.48,80588.52
+S1673,Printer,Office Supplies,5,1161,3,Alice,South,Debit Card,04-11-24,5805,174.15,5630.85
+S1674,Monitor,Office Supplies,6,37912,21,Eve,North,Debit Card,05-11-24,227472,47769.12,179702.88
+S1675,Smartphone,Electronics,1,48979,9,Charlie,North,Cash,06-11-24,48979,4408.11,44570.89
+S1676,Camera,Electronics,5,3420,25,Charlie,South,Cash,07-11-24,17100,4275,12825
+S1677,Monitor,Office Supplies,9,26158,25,David,West,Debit Card,08-11-24,235422,58855.5,176566.5
+S1678,Smartphone,Office Supplies,2,49270,21,Charlie,West,UPI,09-11-24,98540,20693.4,77846.6
+S1679,Keyboard,Office Supplies,1,14525,11,Frank,South,Credit Card,10-11-24,14525,1597.75,12927.25
+S1680,Camera,Wearables,9,9446,16,David,North,Cash,11-11-24,85014,13602.24,71411.76
+S1681,Smartphone,Wearables,9,29206,13,Grace,West,Debit Card,12-11-24,262854,34171.02,228682.98
+S1682,Camera,Accessories,9,46000,13,Hannah,East,Net Banking,13-11-24,414000,53820,360180
+S1683,Laptop,Wearables,6,39504,24,Charlie,South,Net Banking,14-11-24,237024,56885.76,180138.24
+S1684,Mouse,Office Supplies,8,16809,1,Eve,East,UPI,15-11-24,134472,1344.72,133127.28
+S1685,Smartwatch,Wearables,1,46786,20,Grace,East,UPI,16-11-24,46786,9357.2,37428.8
+S1686,Printer,Electronics,4,33620,24,Grace,North,Net Banking,17-11-24,134480,32275.2,102204.8
+S1687,Mouse,Office Supplies,1,30527,19,Hannah,South,UPI,18-11-24,30527,5800.13,24726.87
+S1688,Smartphone,Wearables,8,7505,10,Bob,West,Cash,19-11-24,60040,6004,54036
+S1689,Smartwatch,Office Supplies,1,47304,15,Bob,West,Debit Card,20-11-24,47304,7095.6,40208.4
+S1690,Mouse,Electronics,3,49810,18,Grace,South,Credit Card,21-11-24,149430,26897.4,122532.6
+S1691,Laptop,Electronics,4,1456,22,Eve,North,Debit Card,22-11-24,5824,1281.28,4542.72
+S1692,Printer,Wearables,8,35339,5,Frank,West,Debit Card,23-11-24,282712,14135.6,268576.4
+S1693,Tablet,Office Supplies,6,9095,23,Hannah,West,UPI,24-11-24,54570,12551.1,42018.9
+S1694,Smartphone,Accessories,7,48408,18,Hannah,West,Credit Card,25-11-24,338856,60994.08,277861.92
+S1695,Printer,Electronics,8,13303,4,Frank,North,Cash,26-11-24,106424,4256.96,102167.04
+S1696,Mouse,Accessories,2,26463,25,Alice,West,Net Banking,27-11-24,52926,13231.5,39694.5
+S1697,Tablet,Wearables,8,36721,3,Bob,West,Cash,28-11-24,293768,8813.04,284954.96
+S1698,Headphones,Electronics,3,39943,14,Hannah,East,UPI,29-11-24,119829,16776.06,103052.94
+S1699,Printer,Accessories,7,34223,28,Frank,North,Net Banking,30-11-24,239561,67077.08,172483.92
+S1700,Headphones,Electronics,3,39563,3,Bob,West,Cash,01-12-24,118689,3560.67,115128.33
+S1701,Smartwatch,Accessories,7,49189,19,Grace,North,Debit Card,02-12-24,344323,65421.37,278901.63
+S1702,Keyboard,Office Supplies,2,15782,9,David,North,UPI,03-12-24,31564,2840.76,28723.24
+S1703,Camera,Office Supplies,6,5203,23,Grace,West,Credit Card,04-12-24,31218,7180.14,24037.86
+S1704,Smartwatch,Wearables,3,7063,21,David,West,Debit Card,05-12-24,21189,4449.69,16739.31
+S1705,Tablet,Electronics,3,26349,2,Hannah,North,Credit Card,06-12-24,79047,1580.94,77466.06
+S1706,Tablet,Accessories,9,32360,25,Eve,North,Net Banking,07-12-24,291240,72810,218430
+S1707,Printer,Wearables,7,32085,4,Frank,North,Credit Card,08-12-24,224595,8983.8,215611.2
+S1708,Camera,Office Supplies,5,22515,5,Eve,East,Debit Card,09-12-24,112575,5628.75,106946.25
+S1709,Keyboard,Office Supplies,7,12503,20,Frank,South,Credit Card,10-12-24,87521,17504.2,70016.8
+S1710,Mouse,Wearables,9,44085,21,Charlie,West,UPI,11-12-24,396765,83320.65,313444.35
+S1711,Monitor,Electronics,1,27458,7,Hannah,East,UPI,12-12-24,27458,1922.06,25535.94
+S1712,Smartphone,Accessories,7,26517,6,Frank,East,Debit Card,13-12-24,185619,11137.14,174481.86
+S1713,Keyboard,Office Supplies,6,11671,20,Alice,North,Cash,14-12-24,70026,14005.2,56020.8
+S1714,Tablet,Wearables,9,45850,9,Alice,South,Credit Card,15-12-24,412650,37138.5,375511.5
+S1715,Monitor,Office Supplies,1,12701,5,Bob,West,Debit Card,16-12-24,12701,635.05,12065.95
+S1716,Tablet,Office Supplies,4,29926,13,Hannah,East,Credit Card,17-12-24,119704,15561.52,104142.48
+S1717,Camera,Accessories,9,18278,3,Alice,West,Debit Card,18-12-24,164502,4935.06,159566.94
+S1718,Camera,Electronics,4,45741,27,Bob,East,Credit Card,19-12-24,182964,49400.28,133563.72
+S1719,Printer,Electronics,3,42729,24,Charlie,West,Cash,20-12-24,128187,30764.88,97422.12
+S1720,Mouse,Accessories,9,21616,12,Hannah,North,Debit Card,21-12-24,194544,23345.28,171198.72
+S1721,Laptop,Wearables,2,48864,19,Hannah,North,UPI,22-12-24,97728,18568.32,79159.68
+S1722,Tablet,Wearables,4,33797,16,Alice,South,Cash,23-12-24,135188,21630.08,113557.92
+S1723,Mouse,Electronics,6,19842,22,Grace,North,UPI,24-12-24,119052,26191.44,92860.56
+S1724,Headphones,Office Supplies,2,27990,6,David,East,Cash,25-12-24,55980,3358.8,52621.2
+S1725,Tablet,Office Supplies,8,20475,3,Charlie,East,UPI,26-12-24,163800,4914,158886
+S1726,Monitor,Wearables,8,27223,28,Eve,East,Cash,27-12-24,217784,60979.52,156804.48
+S1727,Mouse,Accessories,1,23779,13,Charlie,East,Credit Card,28-12-24,23779,3091.27,20687.73
+S1728,Keyboard,Office Supplies,3,13265,2,Eve,North,UPI,29-12-24,39795,795.9,38999.1
+S1729,Mouse,Wearables,9,47178,23,Bob,North,Credit Card,30-12-24,424602,97658.46,326943.54
+S1730,Keyboard,Accessories,5,12061,4,Frank,South,Debit Card,31-12-24,60305,2412.2,57892.8
+S1731,Camera,Electronics,6,42399,15,Eve,West,Credit Card,01-01-25,254394,38159.1,216234.9
+S1732,Keyboard,Accessories,4,1025,25,Bob,South,UPI,02-01-25,4100,1025,3075
+S1733,Smartwatch,Electronics,2,23361,22,Frank,West,Cash,03-01-25,46722,10278.84,36443.16
+S1734,Laptop,Wearables,8,49653,19,Charlie,North,Credit Card,04-01-25,397224,75472.56,321751.44
+S1735,Smartwatch,Accessories,6,33642,3,Alice,East,Net Banking,05-01-25,201852,6055.56,195796.44
+S1736,Monitor,Wearables,5,27416,23,Grace,South,Cash,06-01-25,137080,31528.4,105551.6
+S1737,Smartphone,Electronics,9,45465,29,Eve,South,Debit Card,07-01-25,409185,118663.65,290521.35
+S1738,Monitor,Office Supplies,1,5148,23,David,North,Debit Card,08-01-25,5148,1184.04,3963.96
+S1739,Printer,Office Supplies,5,35633,1,Grace,West,UPI,09-01-25,178165,1781.65,176383.35
+S1740,Tablet,Electronics,6,31023,29,Bob,South,Cash,10-01-25,186138,53980.02,132157.98
+S1741,Smartwatch,Office Supplies,5,29552,17,Bob,West,Credit Card,11-01-25,147760,25119.2,122640.8
+S1742,Monitor,Office Supplies,6,34914,18,Alice,South,Credit Card,12-01-25,209484,37707.12,171776.88
+S1743,Tablet,Accessories,6,33281,27,David,East,Debit Card,13-01-25,199686,53915.22,145770.78
+S1744,Tablet,Accessories,7,5099,27,Hannah,North,Cash,14-01-25,35693,9637.11,26055.89
+S1745,Tablet,Office Supplies,4,35546,18,Bob,West,Cash,15-01-25,142184,25593.12,116590.88
+S1746,Laptop,Accessories,8,47564,16,Charlie,North,Debit Card,16-01-25,380512,60881.92,319630.08
+S1747,Smartphone,Electronics,7,36423,13,David,North,Credit Card,17-01-25,254961,33144.93,221816.07
+S1748,Keyboard,Accessories,9,41589,18,Hannah,West,Debit Card,18-01-25,374301,67374.18,306926.82
+S1749,Monitor,Accessories,7,4314,21,Alice,West,Cash,19-01-25,30198,6341.58,23856.42
+S1750,Printer,Accessories,3,46393,23,Alice,South,Credit Card,20-01-25,139179,32011.17,107167.83
+S1751,Monitor,Wearables,3,36484,12,Frank,West,Net Banking,21-01-25,109452,13134.24,96317.76
+S1752,Keyboard,Electronics,8,27116,11,Bob,North,Debit Card,22-01-25,216928,23862.08,193065.92
+S1753,Camera,Office Supplies,5,2613,29,Grace,North,Cash,23-01-25,13065,3788.85,9276.15
+S1754,Mouse,Office Supplies,4,43506,25,Charlie,West,Cash,24-01-25,174024,43506,130518
+S1755,Tablet,Wearables,8,14260,5,Hannah,West,UPI,25-01-25,114080,5704,108376
+S1756,Smartwatch,Accessories,6,22427,20,Bob,South,UPI,26-01-25,134562,26912.4,107649.6
+S1757,Smartwatch,Electronics,2,21439,3,David,South,Debit Card,27-01-25,42878,1286.34,41591.66
+S1758,Mouse,Electronics,4,32919,18,Grace,South,Credit Card,28-01-25,131676,23701.68,107974.32
+S1759,Printer,Office Supplies,4,13088,15,Bob,North,Net Banking,29-01-25,52352,7852.8,44499.2
+S1760,Smartwatch,Wearables,6,36642,12,Bob,West,Net Banking,30-01-25,219852,26382.24,193469.76
+S1761,Mouse,Wearables,6,39698,3,Bob,East,Credit Card,31-01-25,238188,7145.64,231042.36
+S1762,Mouse,Wearables,1,45238,29,Frank,West,UPI,01-02-25,45238,13119.02,32118.98
+S1763,Tablet,Wearables,8,33897,22,Frank,West,Cash,02-02-25,271176,59658.72,211517.28
+S1764,Keyboard,Electronics,6,17153,16,Eve,South,UPI,03-02-25,102918,16466.88,86451.12
+S1765,Keyboard,Accessories,3,11331,22,Charlie,East,Debit Card,04-02-25,33993,7478.46,26514.54
+S1766,Keyboard,Office Supplies,9,6224,0,Grace,West,UPI,05-02-25,56016,0,56016
+S1767,Monitor,Electronics,2,11583,17,Charlie,East,Credit Card,06-02-25,23166,3938.22,19227.78
+S1768,Smartphone,Wearables,8,46417,19,Charlie,East,Debit Card,07-02-25,371336,70553.84,300782.16
+S1769,Monitor,Wearables,3,20316,16,Bob,West,Credit Card,08-02-25,60948,9751.68,51196.32
+S1770,Mouse,Office Supplies,5,42740,26,Alice,South,Debit Card,09-02-25,213700,55562,158138
+S1771,Smartphone,Accessories,6,6776,27,Charlie,South,Cash,10-02-25,40656,10977.12,29678.88
+S1772,Smartwatch,Accessories,6,48903,26,Hannah,West,UPI,11-02-25,293418,76288.68,217129.32
+S1773,Headphones,Accessories,4,39163,14,Frank,East,Credit Card,12-02-25,156652,21931.28,134720.72
+S1774,Monitor,Wearables,3,14494,10,David,East,Debit Card,13-02-25,43482,4348.2,39133.8
+S1775,Monitor,Electronics,4,23999,24,Charlie,South,UPI,14-02-25,95996,23039.04,72956.96
+S1776,Tablet,Electronics,1,23540,27,Grace,South,Net Banking,15-02-25,23540,6355.8,17184.2
+S1777,Keyboard,Accessories,4,43820,21,Hannah,South,Credit Card,16-02-25,175280,36808.8,138471.2
+S1778,Camera,Office Supplies,1,17459,12,David,East,Cash,17-02-25,17459,2095.08,15363.92
+S1779,Smartwatch,Accessories,1,6599,0,Bob,East,Debit Card,18-02-25,6599,0,6599
+S1780,Camera,Accessories,6,42767,16,Bob,South,Credit Card,19-02-25,256602,41056.32,215545.68
+S1781,Keyboard,Office Supplies,5,20076,5,Charlie,South,Credit Card,20-02-25,100380,5019,95361
+S1782,Smartphone,Accessories,4,36446,3,Bob,East,Net Banking,21-02-25,145784,4373.52,141410.48
+S1783,Monitor,Office Supplies,3,6616,19,Grace,North,Cash,22-02-25,19848,3771.12,16076.88
+S1784,Keyboard,Office Supplies,1,16063,15,Frank,East,Net Banking,23-02-25,16063,2409.45,13653.55
+S1785,Monitor,Electronics,6,27288,14,Grace,West,Debit Card,24-02-25,163728,22921.92,140806.08
+S1786,Mouse,Office Supplies,2,27428,26,Frank,West,UPI,25-02-25,54856,14262.56,40593.44
+S1787,Headphones,Accessories,8,36836,14,Charlie,East,Credit Card,26-02-25,294688,41256.32,253431.68
+S1788,Keyboard,Office Supplies,5,10347,5,David,West,Debit Card,27-02-25,51735,2586.75,49148.25
+S1789,Laptop,Accessories,7,26655,14,Eve,North,Debit Card,28-02-25,186585,26121.9,160463.1
+S1790,Smartwatch,Office Supplies,2,14635,13,Bob,North,Cash,01-03-25,29270,3805.1,25464.9
+S1791,Headphones,Electronics,8,18274,27,David,North,Credit Card,02-03-25,146192,39471.84,106720.16
+S1792,Keyboard,Accessories,2,2242,10,Eve,West,Net Banking,03-03-25,4484,448.4,4035.6
+S1793,Laptop,Accessories,4,18809,6,Alice,South,UPI,04-03-25,75236,4514.16,70721.84
+S1794,Laptop,Accessories,1,1119,8,Eve,North,Credit Card,05-03-25,1119,89.52,1029.48
+S1795,Smartwatch,Office Supplies,5,18158,25,David,North,Credit Card,06-03-25,90790,22697.5,68092.5
+S1796,Keyboard,Electronics,9,35207,15,David,South,UPI,07-03-25,316863,47529.45,269333.55
+S1797,Headphones,Electronics,1,20837,4,Grace,East,Debit Card,08-03-25,20837,833.48,20003.52
+S1798,Tablet,Electronics,9,16501,24,Eve,South,Net Banking,09-03-25,148509,35642.16,112866.84
+S1799,Smartphone,Electronics,8,1468,19,Alice,East,Credit Card,10-03-25,11744,2231.36,9512.64
+S1800,Laptop,Office Supplies,6,48114,28,David,East,Debit Card,11-03-25,288684,80831.52,207852.48
+S1801,Camera,Accessories,7,26392,9,Hannah,South,Cash,12-03-25,184744,16626.96,168117.04
+S1802,Keyboard,Wearables,3,26119,17,Grace,North,Debit Card,13-03-25,78357,13320.69,65036.31
+S1803,Tablet,Electronics,1,781,2,Bob,East,UPI,14-03-25,781,15.62,765.38
+S1804,Tablet,Wearables,5,27920,12,David,South,Net Banking,15-03-25,139600,16752,122848
+S1805,Tablet,Office Supplies,2,15860,10,Hannah,North,UPI,16-03-25,31720,3172,28548
+S1806,Mouse,Office Supplies,5,39530,16,Bob,East,Cash,17-03-25,197650,31624,166026
+S1807,Headphones,Wearables,8,1558,29,Alice,West,Debit Card,18-03-25,12464,3614.56,8849.44
+S1808,Laptop,Accessories,9,21177,29,Frank,North,Credit Card,19-03-25,190593,55271.97,135321.03
+S1809,Keyboard,Wearables,2,11224,21,Frank,South,Cash,20-03-25,22448,4714.08,17733.92
+S1810,Tablet,Office Supplies,3,28904,12,Charlie,West,UPI,21-03-25,86712,10405.44,76306.56
+S1811,Smartphone,Wearables,3,38446,5,Grace,South,Debit Card,22-03-25,115338,5766.9,109571.1
+S1812,Smartphone,Electronics,1,40248,16,Grace,East,UPI,23-03-25,40248,6439.68,33808.32
+S1813,Printer,Electronics,8,30356,26,Frank,North,Credit Card,24-03-25,242848,63140.48,179707.52
+S1814,Tablet,Accessories,6,9700,12,Charlie,West,Cash,25-03-25,58200,6984,51216
+S1815,Smartphone,Wearables,8,34497,18,Hannah,West,Cash,26-03-25,275976,49675.68,226300.32
+S1816,Camera,Wearables,9,26111,20,Bob,West,Net Banking,27-03-25,234999,46999.8,187999.2
+S1817,Laptop,Wearables,5,41735,18,Alice,East,UPI,28-03-25,208675,37561.5,171113.5
+S1818,Headphones,Wearables,3,35557,9,Bob,North,Net Banking,29-03-25,106671,9600.39,97070.61
+S1819,Headphones,Accessories,5,1739,2,Alice,North,Cash,30-03-25,8695,173.9,8521.1
+S1820,Camera,Office Supplies,5,38638,13,Eve,East,Debit Card,31-03-25,193190,25114.7,168075.3
+S1821,Keyboard,Accessories,5,49438,25,David,South,Net Banking,01-04-25,247190,61797.5,185392.5
+S1822,Smartphone,Office Supplies,3,625,18,Alice,West,Debit Card,02-04-25,1875,337.5,1537.5
+S1823,Monitor,Office Supplies,4,45772,4,Alice,South,Net Banking,03-04-25,183088,7323.52,175764.48
+S1824,Smartphone,Office Supplies,9,24357,28,Grace,East,UPI,04-04-25,219213,61379.64,157833.36
+S1825,Smartwatch,Wearables,9,15898,4,Eve,South,UPI,05-04-25,143082,5723.28,137358.72
+S1826,Printer,Accessories,2,7138,19,Grace,South,Cash,06-04-25,14276,2712.44,11563.56
+S1827,Camera,Office Supplies,8,7070,16,Grace,East,UPI,07-04-25,56560,9049.6,47510.4
+S1828,Camera,Electronics,8,3749,20,Grace,West,Net Banking,08-04-25,29992,5998.4,23993.6
+S1829,Camera,Office Supplies,7,9610,9,Bob,South,Net Banking,09-04-25,67270,6054.3,61215.7
+S1830,Monitor,Accessories,8,40863,4,Charlie,North,Debit Card,10-04-25,326904,13076.16,313827.84
+S1831,Smartwatch,Wearables,3,14105,3,Eve,South,Credit Card,11-04-25,42315,1269.45,41045.55
+S1832,Printer,Electronics,6,12615,5,Bob,South,Net Banking,12-04-25,75690,3784.5,71905.5
+S1833,Tablet,Office Supplies,1,39562,25,Eve,North,Debit Card,13-04-25,39562,9890.5,29671.5
+S1834,Tablet,Wearables,7,23411,3,Bob,West,Cash,14-04-25,163877,4916.31,158960.69
+S1835,Keyboard,Accessories,1,39025,29,David,North,UPI,15-04-25,39025,11317.25,27707.75
+S1836,Camera,Accessories,9,33056,6,Charlie,West,UPI,16-04-25,297504,17850.24,279653.76
+S1837,Printer,Electronics,1,13095,6,Frank,East,Net Banking,17-04-25,13095,785.7,12309.3
+S1838,Keyboard,Electronics,1,2469,17,Grace,East,UPI,18-04-25,2469,419.73,2049.27
+S1839,Camera,Office Supplies,7,44253,2,Bob,South,Cash,19-04-25,309771,6195.42,303575.58
+S1840,Camera,Wearables,2,17775,0,Eve,South,Credit Card,20-04-25,35550,0,35550
+S1841,Laptop,Wearables,5,4970,23,Grace,East,Net Banking,21-04-25,24850,5715.5,19134.5
+S1842,Camera,Accessories,8,10725,24,David,North,Cash,22-04-25,85800,20592,65208
+S1843,Smartphone,Accessories,8,42824,3,Alice,East,Debit Card,23-04-25,342592,10277.76,332314.24
+S1844,Monitor,Office Supplies,3,42474,5,David,West,Credit Card,24-04-25,127422,6371.1,121050.9
+S1845,Monitor,Office Supplies,7,43259,8,Bob,South,Net Banking,25-04-25,302813,24225.04,278587.96
+S1846,Keyboard,Accessories,3,23696,21,Grace,North,UPI,26-04-25,71088,14928.48,56159.52
+S1847,Smartphone,Accessories,6,40787,13,Bob,South,Net Banking,27-04-25,244722,31813.86,212908.14
+S1848,Headphones,Wearables,6,14169,27,Hannah,East,Debit Card,28-04-25,85014,22953.78,62060.22
+S1849,Monitor,Wearables,3,37880,11,Alice,North,UPI,29-04-25,113640,12500.4,101139.6
+S1850,Headphones,Wearables,7,45641,27,Eve,East,Credit Card,30-04-25,319487,86261.49,233225.51
+S1851,Smartwatch,Office Supplies,3,48820,24,Charlie,West,Net Banking,01-05-25,146460,35150.4,111309.6
+S1852,Smartphone,Wearables,8,47914,19,Bob,East,Cash,02-05-25,383312,72829.28,310482.72
+S1853,Headphones,Electronics,4,38506,23,Alice,North,Debit Card,03-05-25,154024,35425.52,118598.48
+S1854,Laptop,Electronics,1,16077,24,Charlie,East,Net Banking,04-05-25,16077,3858.48,12218.52
+S1855,Printer,Wearables,4,22973,3,Alice,South,Cash,05-05-25,91892,2756.76,89135.24
+S1856,Tablet,Wearables,7,29125,20,Charlie,South,Net Banking,06-05-25,203875,40775,163100
+S1857,Camera,Accessories,4,16004,29,Hannah,North,Debit Card,07-05-25,64016,18564.64,45451.36
+S1858,Tablet,Accessories,6,24589,23,Frank,South,Net Banking,08-05-25,147534,33932.82,113601.18
+S1859,Keyboard,Office Supplies,9,36987,11,Eve,West,UPI,09-05-25,332883,36617.13,296265.87
+S1860,Laptop,Electronics,1,802,9,Charlie,West,UPI,10-05-25,802,72.18,729.82
+S1861,Monitor,Electronics,5,31963,29,Frank,North,Cash,11-05-25,159815,46346.35,113468.65
+S1862,Keyboard,Office Supplies,7,45412,21,Charlie,East,UPI,12-05-25,317884,66755.64,251128.36
+S1863,Keyboard,Wearables,1,29759,27,Eve,South,Credit Card,13-05-25,29759,8034.93,21724.07
+S1864,Tablet,Wearables,4,43323,6,Bob,South,Credit Card,14-05-25,173292,10397.52,162894.48
+S1865,Smartphone,Office Supplies,6,37708,2,Alice,East,Net Banking,15-05-25,226248,4524.96,221723.04
+S1866,Monitor,Electronics,2,31159,22,Frank,East,Credit Card,16-05-25,62318,13709.96,48608.04
+S1867,Keyboard,Electronics,5,36340,27,Grace,East,Credit Card,17-05-25,181700,49059,132641
+S1868,Camera,Wearables,1,32390,13,Eve,East,Debit Card,18-05-25,32390,4210.7,28179.3
+S1869,Monitor,Accessories,6,14098,23,Bob,South,Debit Card,19-05-25,84588,19455.24,65132.76
+S1870,Printer,Office Supplies,6,47555,9,Eve,West,Credit Card,20-05-25,285330,25679.7,259650.3
+S1871,Smartphone,Office Supplies,4,47233,15,Bob,North,Debit Card,21-05-25,188932,28339.8,160592.2
+S1872,Smartwatch,Wearables,8,20008,15,Hannah,North,Credit Card,22-05-25,160064,24009.6,136054.4
+S1873,Monitor,Office Supplies,4,42787,21,Hannah,East,Cash,23-05-25,171148,35941.08,135206.92
+S1874,Headphones,Electronics,8,13880,9,Frank,West,Debit Card,24-05-25,111040,9993.6,101046.4
+S1875,Keyboard,Wearables,8,27484,24,Alice,South,Credit Card,25-05-25,219872,52769.28,167102.72
+S1876,Headphones,Electronics,5,45133,12,Hannah,South,Credit Card,26-05-25,225665,27079.8,198585.2
+S1877,Smartphone,Accessories,4,8625,5,Charlie,North,Net Banking,27-05-25,34500,1725,32775
+S1878,Laptop,Office Supplies,2,36559,11,Frank,East,Cash,28-05-25,73118,8042.98,65075.02
+S1879,Headphones,Office Supplies,3,4533,8,Charlie,West,Cash,29-05-25,13599,1087.92,12511.08
+S1880,Keyboard,Electronics,3,38373,12,Eve,North,Net Banking,30-05-25,115119,13814.28,101304.72
+S1881,Camera,Wearables,4,17587,3,Bob,West,Net Banking,31-05-25,70348,2110.44,68237.56
+S1882,Camera,Wearables,4,41401,23,Bob,East,Net Banking,01-06-25,165604,38088.92,127515.08
+S1883,Keyboard,Office Supplies,5,6204,10,David,East,UPI,02-06-25,31020,3102,27918
+S1884,Tablet,Electronics,4,8348,19,Alice,North,Credit Card,03-06-25,33392,6344.48,27047.52
+S1885,Smartphone,Accessories,8,22092,17,Alice,East,UPI,04-06-25,176736,30045.12,146690.88
+S1886,Tablet,Electronics,6,46243,25,Alice,West,Debit Card,05-06-25,277458,69364.5,208093.5
+S1887,Keyboard,Wearables,6,7424,10,David,West,Net Banking,06-06-25,44544,4454.4,40089.6
+S1888,Printer,Office Supplies,8,27708,24,Alice,North,Credit Card,07-06-25,221664,53199.36,168464.64
+S1889,Keyboard,Office Supplies,7,20114,20,Hannah,East,Credit Card,08-06-25,140798,28159.6,112638.4
+S1890,Smartwatch,Office Supplies,8,988,3,Frank,South,Debit Card,09-06-25,7904,237.12,7666.88
+S1891,Smartwatch,Accessories,2,40382,17,Grace,East,Cash,10-06-25,80764,13729.88,67034.12
+S1892,Tablet,Accessories,9,26423,0,Charlie,North,Credit Card,11-06-25,237807,0,237807
+S1893,Tablet,Wearables,1,49008,26,Charlie,North,Cash,12-06-25,49008,12742.08,36265.92
+S1894,Smartphone,Electronics,8,36441,6,Alice,South,Credit Card,13-06-25,291528,17491.68,274036.32
+S1895,Camera,Electronics,4,29665,5,Grace,North,UPI,14-06-25,118660,5933,112727
+S1896,Laptop,Electronics,4,2167,14,David,North,Net Banking,15-06-25,8668,1213.52,7454.48
+S1897,Printer,Accessories,5,26713,17,Frank,South,Cash,16-06-25,133565,22706.05,110858.95
+S1898,Mouse,Office Supplies,8,4614,23,David,South,UPI,17-06-25,36912,8489.76,28422.24
+S1899,Camera,Wearables,5,36821,10,Grace,West,Credit Card,18-06-25,184105,18410.5,165694.5
+S1900,Keyboard,Wearables,8,8261,19,Frank,North,Net Banking,19-06-25,66088,12556.72,53531.28
+S1901,Laptop,Accessories,1,31616,23,Eve,South,UPI,20-06-25,31616,7271.68,24344.32
+S1902,Smartphone,Accessories,9,34268,14,Bob,West,Net Banking,21-06-25,308412,43177.68,265234.32
+S1903,Monitor,Office Supplies,6,48906,15,Frank,North,Credit Card,22-06-25,293436,44015.4,249420.6
+S1904,Camera,Office Supplies,3,25926,6,Bob,South,Credit Card,23-06-25,77778,4666.68,73111.32
+S1905,Camera,Accessories,8,18272,20,Alice,North,UPI,24-06-25,146176,29235.2,116940.8
+S1906,Laptop,Wearables,9,38718,9,Charlie,West,Credit Card,25-06-25,348462,31361.58,317100.42
+S1907,Keyboard,Office Supplies,6,4212,25,David,East,Debit Card,26-06-25,25272,6318,18954
+S1908,Camera,Office Supplies,7,1867,11,Alice,North,Net Banking,27-06-25,13069,1437.59,11631.41
+S1909,Laptop,Wearables,1,41457,23,Grace,North,Credit Card,28-06-25,41457,9535.11,31921.89
+S1910,Headphones,Office Supplies,5,42281,13,Bob,North,Credit Card,29-06-25,211405,27482.65,183922.35
+S1911,Tablet,Wearables,5,26700,24,Hannah,North,Debit Card,30-06-25,133500,32040,101460
+S1912,Smartwatch,Electronics,4,4226,4,Eve,South,Net Banking,01-07-25,16904,676.16,16227.84
+S1913,Tablet,Office Supplies,6,24116,25,Eve,East,Cash,02-07-25,144696,36174,108522
+S1914,Keyboard,Office Supplies,7,28223,20,Frank,North,Debit Card,03-07-25,197561,39512.2,158048.8
+S1915,Headphones,Electronics,9,38074,17,Bob,South,Debit Card,04-07-25,342666,58253.22,284412.78
+S1916,Camera,Wearables,1,35458,4,Hannah,East,Net Banking,05-07-25,35458,1418.32,34039.68
+S1917,Printer,Office Supplies,6,9608,2,Alice,West,Debit Card,06-07-25,57648,1152.96,56495.04
+S1918,Tablet,Electronics,7,12678,22,Frank,West,Net Banking,07-07-25,88746,19524.12,69221.88
+S1919,Smartphone,Wearables,3,36143,25,David,West,Debit Card,08-07-25,108429,27107.25,81321.75
+S1920,Tablet,Office Supplies,8,31824,4,Eve,West,Net Banking,09-07-25,254592,10183.68,244408.32
+S1921,Mouse,Accessories,5,38860,23,Eve,West,Net Banking,10-07-25,194300,44689,149611
+S1922,Printer,Electronics,9,18324,16,David,East,Cash,11-07-25,164916,26386.56,138529.44
+S1923,Mouse,Wearables,5,45860,18,Hannah,North,Credit Card,12-07-25,229300,41274,188026
+S1924,Mouse,Accessories,9,9427,18,Frank,West,Net Banking,13-07-25,84843,15271.74,69571.26
+S1925,Smartphone,Wearables,4,28644,24,Hannah,North,UPI,14-07-25,114576,27498.24,87077.76
+S1926,Headphones,Accessories,9,31510,20,David,North,Cash,15-07-25,283590,56718,226872
+S1927,Mouse,Accessories,5,22943,11,David,North,Cash,16-07-25,114715,12618.65,102096.35
+S1928,Printer,Electronics,9,14937,24,Charlie,North,Credit Card,17-07-25,134433,32263.92,102169.08
+S1929,Tablet,Electronics,3,44798,28,Alice,North,Debit Card,18-07-25,134394,37630.32,96763.68
+S1930,Keyboard,Accessories,4,40278,8,Grace,East,Debit Card,19-07-25,161112,12888.96,148223.04
+S1931,Printer,Electronics,9,11707,0,Alice,North,Net Banking,20-07-25,105363,0,105363
+S1932,Smartwatch,Wearables,6,26037,17,David,East,Cash,21-07-25,156222,26557.74,129664.26
+S1933,Laptop,Office Supplies,2,36257,20,Frank,East,Net Banking,22-07-25,72514,14502.8,58011.2
+S1934,Tablet,Wearables,7,12540,3,Alice,North,UPI,23-07-25,87780,2633.4,85146.6
+S1935,Smartphone,Accessories,2,42486,9,Frank,East,Debit Card,24-07-25,84972,7647.48,77324.52
+S1936,Mouse,Wearables,2,23112,24,Alice,West,Net Banking,25-07-25,46224,11093.76,35130.24
+S1937,Keyboard,Accessories,1,28941,6,Grace,West,Net Banking,26-07-25,28941,1736.46,27204.54
+S1938,Mouse,Wearables,3,6971,21,Eve,West,Cash,27-07-25,20913,4391.73,16521.27
+S1939,Smartphone,Wearables,6,36131,22,Bob,North,UPI,28-07-25,216786,47692.92,169093.08
+S1940,Printer,Electronics,8,43961,0,David,West,UPI,29-07-25,351688,0,351688
+S1941,Smartwatch,Accessories,9,27023,16,David,South,Net Banking,30-07-25,243207,38913.12,204293.88
+S1942,Laptop,Accessories,7,31848,23,Grace,South,UPI,31-07-25,222936,51275.28,171660.72
+S1943,Smartwatch,Office Supplies,4,1677,28,Hannah,South,UPI,01-08-25,6708,1878.24,4829.76
+S1944,Tablet,Wearables,6,5260,28,Alice,West,Cash,02-08-25,31560,8836.8,22723.2
+S1945,Printer,Wearables,5,33279,1,Charlie,East,Cash,03-08-25,166395,1663.95,164731.05
+S1946,Laptop,Office Supplies,8,22136,27,Eve,South,UPI,04-08-25,177088,47813.76,129274.24
+S1947,Monitor,Accessories,1,16853,25,Bob,East,Net Banking,05-08-25,16853,4213.25,12639.75
+S1948,Smartwatch,Wearables,1,12056,10,Alice,East,Debit Card,06-08-25,12056,1205.6,10850.4
+S1949,Mouse,Office Supplies,6,28098,8,David,North,Net Banking,07-08-25,168588,13487.04,155100.96
+S1950,Camera,Office Supplies,2,12063,6,Grace,South,Net Banking,08-08-25,24126,1447.56,22678.44
+S1951,Tablet,Office Supplies,5,47319,21,Frank,North,Debit Card,09-08-25,236595,49684.95,186910.05
+S1952,Tablet,Wearables,1,44290,16,Hannah,North,Cash,10-08-25,44290,7086.4,37203.6
+S1953,Laptop,Accessories,7,8734,16,Bob,North,Net Banking,11-08-25,61138,9782.08,51355.92
+S1954,Monitor,Accessories,1,26019,1,Bob,West,UPI,12-08-25,26019,260.19,25758.81
+S1955,Keyboard,Office Supplies,4,27466,5,Charlie,North,UPI,13-08-25,109864,5493.2,104370.8
+S1956,Smartwatch,Office Supplies,9,16673,13,Grace,East,Cash,14-08-25,150057,19507.41,130549.59
+S1957,Headphones,Accessories,1,27487,5,Bob,South,Cash,15-08-25,27487,1374.35,26112.65
+S1958,Keyboard,Office Supplies,4,13678,1,Alice,East,Cash,16-08-25,54712,547.12,54164.88
+S1959,Tablet,Office Supplies,6,39838,0,Grace,South,Credit Card,17-08-25,239028,0,239028
+S1960,Tablet,Accessories,6,25096,9,Charlie,West,Credit Card,18-08-25,150576,13551.84,137024.16
+S1961,Smartphone,Wearables,8,33674,20,David,South,UPI,19-08-25,269392,53878.4,215513.6
+S1962,Laptop,Office Supplies,1,42474,4,Eve,South,Net Banking,20-08-25,42474,1698.96,40775.04
+S1963,Camera,Wearables,7,4931,1,Eve,South,Credit Card,21-08-25,34517,345.17,34171.83
+S1964,Monitor,Office Supplies,1,28264,21,Frank,South,Net Banking,22-08-25,28264,5935.44,22328.56
+S1965,Headphones,Office Supplies,7,22127,15,Grace,East,Debit Card,23-08-25,154889,23233.35,131655.65
+S1966,Keyboard,Office Supplies,3,39810,24,Frank,South,UPI,24-08-25,119430,28663.2,90766.8
+S1967,Smartwatch,Electronics,8,9406,1,Frank,North,Credit Card,25-08-25,75248,752.48,74495.52
+S1968,Laptop,Wearables,3,37414,9,Hannah,South,UPI,26-08-25,112242,10101.78,102140.22
+S1969,Smartwatch,Wearables,1,45314,1,Eve,North,Debit Card,27-08-25,45314,453.14,44860.86
+S1970,Printer,Office Supplies,8,45879,15,David,West,Debit Card,28-08-25,367032,55054.8,311977.2
+S1971,Smartphone,Accessories,3,13576,15,Bob,North,UPI,29-08-25,40728,6109.2,34618.8
+S1972,Monitor,Office Supplies,2,49792,18,David,East,Credit Card,30-08-25,99584,17925.12,81658.88
+S1973,Smartphone,Electronics,1,38150,28,Charlie,North,UPI,31-08-25,38150,10682,27468
+S1974,Tablet,Office Supplies,3,47381,6,Bob,East,Net Banking,01-09-25,142143,8528.58,133614.42
+S1975,Smartphone,Electronics,2,46913,21,Charlie,North,Net Banking,02-09-25,93826,19703.46,74122.54
+S1976,Headphones,Office Supplies,2,6512,11,Bob,South,Net Banking,03-09-25,13024,1432.64,11591.36
+S1977,Tablet,Wearables,6,7651,23,Charlie,West,Net Banking,04-09-25,45906,10558.38,35347.62
+S1978,Keyboard,Office Supplies,1,28711,14,Hannah,East,Net Banking,05-09-25,28711,4019.54,24691.46
+S1979,Smartwatch,Wearables,2,27617,7,Hannah,East,Debit Card,06-09-25,55234,3866.38,51367.62
+S1980,Keyboard,Accessories,6,36878,5,Frank,South,Credit Card,07-09-25,221268,11063.4,210204.6
+S1981,Printer,Accessories,3,43152,27,Grace,South,Credit Card,08-09-25,129456,34953.12,94502.88
+S1982,Tablet,Office Supplies,4,7394,26,Bob,North,Cash,09-09-25,29576,7689.76,21886.24
+S1983,Tablet,Office Supplies,1,13967,9,Frank,East,UPI,10-09-25,13967,1257.03,12709.97
+S1984,Monitor,Accessories,8,31510,2,David,North,Debit Card,11-09-25,252080,5041.6,247038.4
+S1985,Tablet,Electronics,7,49757,18,Hannah,South,Debit Card,12-09-25,348299,62693.82,285605.18
+S1986,Smartwatch,Accessories,7,43141,16,Eve,East,UPI,13-09-25,301987,48317.92,253669.08
+S1987,Headphones,Accessories,3,12789,6,Hannah,West,UPI,14-09-25,38367,2302.02,36064.98
+S1988,Printer,Electronics,3,45476,20,Eve,West,Net Banking,15-09-25,136428,27285.6,109142.4
+S1989,Monitor,Accessories,2,44096,19,Bob,East,Debit Card,16-09-25,88192,16756.48,71435.52
+S1990,Camera,Accessories,1,23671,25,Bob,East,Debit Card,17-09-25,23671,5917.75,17753.25
+S1991,Smartwatch,Electronics,7,35405,3,Charlie,South,UPI,18-09-25,247835,7435.05,240399.95
+S1992,Headphones,Electronics,7,21329,13,Eve,East,UPI,19-09-25,149303,19409.39,129893.61
+S1993,Smartphone,Wearables,2,34554,19,Alice,East,Credit Card,20-09-25,69108,13130.52,55977.48
+S1994,Keyboard,Office Supplies,7,48978,21,David,West,Net Banking,21-09-25,342846,71997.66,270848.34
+S1995,Printer,Wearables,8,44639,14,Frank,South,Cash,22-09-25,357112,49995.68,307116.32
+S1996,Mouse,Electronics,1,49213,23,Charlie,North,Net Banking,23-09-25,49213,11318.99,37894.01
+S1997,Smartwatch,Accessories,9,30234,7,Bob,East,Debit Card,24-09-25,272106,19047.42,253058.58
+S1998,Keyboard,Electronics,7,7552,20,David,South,Credit Card,25-09-25,52864,10572.8,42291.2
+S1999,Laptop,Accessories,3,4154,14,Frank,South,UPI,26-09-25,12462,1744.68,10717.32
